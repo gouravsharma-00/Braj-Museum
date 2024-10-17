@@ -20,7 +20,7 @@ const Modal = () => {
         <dialog style={ModalStyle} ref={modalRef}>
             <div>
                 <h1>Braj <img src='/favicon.png'/></h1>
-                <span style={{fontSize: '15px'}} >A Photo Galary For Temples Of Braj</span>
+                <span style={{fontSize: '15px'}} >A Photo Gallery For Temples Of Braj</span>
             </div>
             <button 
             style={{
