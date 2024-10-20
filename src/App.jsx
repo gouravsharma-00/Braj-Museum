@@ -1,9 +1,11 @@
-import { Modal } from './components/modal.jsx';
-
+import OpenSeadragonViewer from "./components/openseaLib";
 const App = () => {
 
   return(
-    <Modal />
+    <>
+      <h1>OpenSeaDragon Viewer</h1>
+      <OpenSeadragonViewer />
+    </>
   )
   
 }
