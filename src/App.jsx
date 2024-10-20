@@ -3,7 +3,6 @@ const App = () => {
 
   return(
     <>
-      <h1>OpenSeaDragon Viewer</h1>
       <OpenSeadragonViewer />
     </>
   )

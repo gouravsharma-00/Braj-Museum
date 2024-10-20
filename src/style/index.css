@@ -12,3 +12,21 @@
     left: 0;
     right: 0;
 }
+
+.marker {
+    background-color: rgb(252, 252, 252);
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    position: absolute;
+    cursor: pointer;
+    transform: translate(-50%, -50%); /* Center the marker */
+    pointer-events: all;
+}
+
+
+.take {
+    position: absolute;
+    bottom: 0;
+    z-index: 1000;
+}

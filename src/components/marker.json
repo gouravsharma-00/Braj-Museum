@@ -1,0 +1,4 @@
+[
+    { "id": "marker1", "x": 1000, "y": 1500, "url": "https://example.com", "minZoom": 0.5, "maxZoom": 1.5 },
+    { "id": "marker2", "x": 3000, "y": 4000, "url": "https://example.com", "minZoom": 1.2, "maxZoom": 2.0 }
+]
