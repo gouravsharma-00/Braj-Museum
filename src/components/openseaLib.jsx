@@ -1,11 +1,14 @@
 import OpenSeadragon from "openseadragon";
-import React, { useEffect, useRef } from "react";
+// dialog box for 360* view
+import Temple from "./templeView";
+import React, { useEffect, useRef, useState } from "react";
 
 
 
 
 const OpenSeadragonViewer = () => {
     const viewerRef = useRef(null);
+    const [isOpen, setIsOpen] = useState(false);
     const markers = [
         // Hudal
         { id: 'marker1', x: 4550, y: 3000, url: 'https://example.com', maxZoom: 1.5, label: "Wan Bihari Mandir" },
@@ -75,7 +78,8 @@ const OpenSeadragonViewer = () => {
         
             marker.addEventListener('click', (event) => {
                 event.stopPropagation();
-                window.open(markerData.url, '_blank');
+                // window.open(markerData.url, '_blank');
+                setIsOpen(true);
             });
         
             // Normalize coordinates to OpenSeadragon's coordinate system
@@ -113,6 +117,7 @@ const OpenSeadragonViewer = () => {
     }
     return (
         <div>
+            <Temple isOpen={isOpen} setIsOpen={setIsOpen} />
             <div className="take">
                 <select onChange={handleMarker}>
                     <option value="">Select Your Location</option>
