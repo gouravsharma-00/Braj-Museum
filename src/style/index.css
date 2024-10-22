@@ -14,14 +14,19 @@
 }
 
 .marker {
-    background-color: rgb(252, 252, 252);
+    background-color: rgb(253, 0, 0);
+    border: 2px solid rgb(255, 255, 255);
     width: 20px;
     height: 20px;
     border-radius: 50%;
     position: absolute;
     cursor: pointer;
-    transform: translate(-50%, -50%); /* Center the marker */
+    /* transform: translate(-50%, -50%); Center the marker */
     pointer-events: all;
+}
+.marker:hover {
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(0, 0, 0);
 }
 
 

@@ -3,22 +3,13 @@ import OpenSeadragon from "openseadragon";
 import Temple from "./templeView";
 import React, { useEffect, useRef, useState } from "react";
 
-
+import markers from "./marker.json";
 
 
 const OpenSeadragonViewer = () => {
     const viewerRef = useRef(null);
     const [isOpen, setIsOpen] = useState(false);
-    const markers = [
-        // Hudal
-        { id: 'marker1', x: 4550, y: 3000, url: 'https://example.com', maxZoom: 1.5, label: "Wan Bihari Mandir" },
-        { id: 'marker2', x: 4650, y: 3070, url: 'https://example.com', maxZoom: 1.5, label: "sarovar" },
-        { id: 'marker3', x: 5350, y: 3020, url: 'https://example.com', maxZoom: 1.5, label: "Hanuman Mandir" },
-        // main
-        { id: 'marker4', x: 4920, y: 2950, url: 'https://example.com',  maxZoom: 0.4, label: "sati Kund" },
-        // Add more markers with their respective zoom ranges
-    ];
-
+    
     useEffect(() => {
         // Initialize the OpenSeadragon viewer
         const viewer = OpenSeadragon({
@@ -66,14 +57,6 @@ const OpenSeadragonViewer = () => {
             const marker = document.createElement('div');
             marker.id = markerData.id;
             marker.className = 'marker';
-            marker.style.backgroundColor = 'red';
-            marker.style.width = '20px';
-            marker.style.height = '20px';
-            marker.style.borderRadius = '50%';
-            marker.style.position = 'absolute';
-            marker.style.cursor = 'pointer';
-            marker.style.transform = 'translate(-50%, -50%)';
-            marker.style.border = '2px solid white';
             marker.style.pointerEvents = 'auto';
         
             marker.addEventListener('click', (event) => {
