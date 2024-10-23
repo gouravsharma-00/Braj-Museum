@@ -1,0 +1,146 @@
+[
+    {
+        "id": "marker1",
+        "x": 8590,
+        "y": 7431,
+        "url": "temples/krishnabalramtempleisckon.html",
+        "maxZoom": 0.4,
+        "label": "Krishna Balaram Temple (ISCKON)"
+    },
+    {
+        "id": "marker2",
+        "x": 8504,
+        "y": 7403,
+        "url": "temples/shriradhavallabhtemple.html",
+        "maxZoom": 1.5,
+        "label": "Radha Vallabh ji Temple"
+    },
+    {
+        "id": "marker3",
+        "x": 9198,
+        "y": 7080,
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "label": "Shri Radharaman Temple"
+    },
+    {
+        "id": "marker4",
+        "x": 9051,
+        "y": 7394,
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "label": "sewa kunj"
+    },
+    {
+        "id": "marker5",
+        "x": 9293,
+        "y": 7184,
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "label": "Shri Radha Gopinath Temple"
+    },
+    {
+        "id": "marker6",
+        "x": 8493,
+        "y": 7321,
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "label": "Shri Banke Bihari ji"
+    },
+    {
+        "id": "marker7",
+        "x": 9009,
+        "y": 7087,
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "label": "Imli Temple"
+    },
+    {
+        "id": "marker8",
+        "x": 9598,
+        "y": 6996,
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "label": "shriji vrindavan"
+    },
+    {
+        "id": "marker9",
+        "x": 9546,
+        "y": 7297,
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "label": "Gopeshwar mahadev"
+    },
+    {
+        "id": "marker10",
+        "x": 9146,
+        "y": 7489,
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "label": "shri Chaitanya mahaprabhu baithak"
+    },
+    {
+        "id": "marker11",
+        "x": 9441,
+        "y": 6971,
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "label": "maan sarovar"
+    },
+    {
+        "id": "marker12",
+        "x": 8677,
+        "y": 7222,
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "label": "madan mohan temple"
+    },
+    {
+        "id": "marker13",
+        "x": 9493,
+        "y": 7365,
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "label": "Bhramha kund"
+    },
+    {
+        "id": "marker14",
+        "x": 8504,
+        "y": 7270,
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "label": "Kaliya Ghat"
+    },
+    {
+        "id": "marker15",
+        "x": 9177,
+        "y": 7102,
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "label": "kesi ghat"
+    },
+    {
+        "id": "marker16",
+        "x": 8662,
+        "y": 7489,
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "label": "Davanal Kund"
+    },
+    {
+        "id": "marker17",
+        "x": 9219,
+        "y": 7382,
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "label": "Old Radha Govinddev temple"
+    },
+    {
+        "id": "marker18",
+        "x": 9062,
+        "y": 7316,
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "label": "NidhiVan"
+    }
+]
