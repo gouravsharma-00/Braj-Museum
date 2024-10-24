@@ -1,5 +1,13 @@
 [
     {
+        "id": "marker122",
+        "x": 8556,
+        "y": 7441,
+        "url": "temples/krishnabalramtempleisckon.html",
+        "maxZoom": 0.4,
+        "label": "Krishna Balaram Temple (ISCKON)"
+    },
+    {
         "id": "marker1",
         "x": 8590,
         "y": 7431,
