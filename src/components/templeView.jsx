@@ -1,6 +1,6 @@
 import { useRef, useEffect } from 'react';
 
-const Temple = ({ isOpen, setIsOpen }) => {
+const Temple = ({ isOpen, setIsOpen, temple }) => {
     const dialogRef = useRef(null);
     const panoramaElement = useRef(null);
     const viewerRef = useRef(null);
@@ -19,48 +19,12 @@ const Temple = ({ isOpen, setIsOpen }) => {
                     },
                     "scenes": {
                         "circle": {
-                            "title": "Krishna Balaram temple",
+                            "title": temple,
                             "hfov": 1,
                             "pitch": 10,
                             "yaw": 0,
                             "type": "equirectangular",
-                            "panorama": "/ThreeSixty_img/60e3f60aec5d1f0008e1c908.jpeg",
-                            "hotSpots": [
-                                {
-                                    "pitch": -2.1,
-                                    "yaw": 132.9,
-                                    "type": "scene",
-                                    "text": "Spring House or Dairy",
-                                    "sceneId": "house"
-                                },
-                                {
-                                    "pitch": -0.6,
-                                    "yaw": 37.1,
-                                    "type": "scene",
-                                    "text": "Mandir Tree",
-                                    "sceneId": "circle",
-                                    "targetYaw": -23,
-                                    "targetPitch": 2
-                                }
-                            ]
-                        },
-                        "house": {
-                            "title": "Spring House or Dairy",
-                            "hfov": 110,
-                            "yaw": 50,
-                            "type": "equirectangular",
-                            "panorama": "/images/bma-0.jpg",
-                            "hotSpots": [
-                                {
-                                    "pitch": -0.6,
-                                    "yaw": 37.1,
-                                    "type": "scene",
-                                    "text": "Mason Circle",
-                                    "sceneId": "circle",
-                                    "targetYaw": -23,
-                                    "targetPitch": 2
-                                }
-                            ]
+                            "panorama": "/ThreeSixty_img/60e3f60aec5d1f0008e1c908.jpeg"
                         }
                     }
                 });

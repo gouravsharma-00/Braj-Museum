@@ -9,6 +9,7 @@ import markers from "./second.json";
 const OpenSeadragonViewer = () => {
     const viewerRef = useRef(null);
     const [isOpen, setIsOpen] = useState(false);
+    const [temple, setTemple] = useState("");
     
     useEffect(() => {
         // Initialize the OpenSeadragon viewer
@@ -62,6 +63,7 @@ const OpenSeadragonViewer = () => {
             marker.addEventListener('click', (event) => {
                 event.stopPropagation();
                 // window.open(markerData.url, '_blank');
+                setTemple(markerData.label)
                 setIsOpen(true);
             });
         
@@ -100,7 +102,7 @@ const OpenSeadragonViewer = () => {
     }
     return (
         <div>
-            <Temple isOpen={isOpen} setIsOpen={setIsOpen} />
+            <Temple isOpen={isOpen} setIsOpen={setIsOpen} temple={temple} />
             <div className="take">
                 <select onChange={handleMarker}>
                     <option value="">Select Your Location</option>
