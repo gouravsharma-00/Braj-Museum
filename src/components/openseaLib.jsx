@@ -3,7 +3,7 @@ import OpenSeadragon from "openseadragon";
 import Temple from "./templeView";
 import React, { useEffect, useRef, useState } from "react";
 
-import markers from "./second.json";
+import markers from "./data.json";
 
 
 const OpenSeadragonViewer = () => {
