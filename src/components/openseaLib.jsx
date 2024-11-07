@@ -100,7 +100,7 @@ const OpenSeadragonViewer = () => {
         }
     }
     return (
-        <div>
+        <div style={{display: "flex", justifyContent: "center", alignItems: "center"}}>
             <Temple isOpen={isOpen} setIsOpen={setIsOpen} temple={temple} />
             <div className="take">
                 <select onChange={handleMarker} style={{height: "30px"}}>
@@ -112,7 +112,7 @@ const OpenSeadragonViewer = () => {
                     }
                 </select>
             </div>
-            <div id="openseadragon" style={{ width: '100%', height: '99vh' }} />
+            <div id="openseadragon" style={{ width: '50%', height: '99vh' }} />
         </div>
 );
 };
