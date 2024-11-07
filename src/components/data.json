@@ -15,7 +15,7 @@
         "url": "temples/krishnabalramtempleisckon.html",
         "maxZoom": 0.4,
         "color": "green",
-        "label": "Old Radha Govind Dev Temple"
+        "label": "Old Shri Radhavallabh Temple"
     },
     {
         "id": "marker2",
@@ -37,120 +37,123 @@
     },
     {
         "id": "marker4",
-        "x": 9051,
-        "y": 7394,
+        "x": 8885,
+        "y": 7000,
         "url": "stuban",
         "maxZoom": 1.5,
-        "label": "sewa kunj"
+        "color": "green",
+        "label": "Other Side of Yamuna, Vrindavan"
     },
     {
         "id": "marker5",
-        "x": 9293,
-        "y": 7184,
+        "x": 9611,
+        "y": 7370,
         "url": "stuban",
         "maxZoom": 1.5,
-        "label": "Shri Radha Gopinath Temple"
+        "color": "green",
+        "label": "Shri Radha Gopinath Temple, Vrindavan"
     },
     {
         "id": "marker6",
-        "x": 8493,
-        "y": 7321,
+        "x": 8474,
+        "y": 7500,
         "url": "stuban",
         "maxZoom": 1.5,
-        "label": "Shri Banke Bihari ji"
+        "color": "green",
+        "label": "Shri Banke Bihari Vrindavan"
     },
     {
         "id": "marker7",
-        "x": 9009,
-        "y": 7087,
+        "x": 9011,
+        "y": 7210,
         "url": "stuban",
         "maxZoom": 1.5,
-        "label": "Imli Temple"
+        "label": "Inside View of Imlitala Temple, Vrindavan"
     },
     {
         "id": "marker8",
-        "x": 9598,
-        "y": 6996,
+        "x": 9728,
+        "y": 7200,
         "url": "stuban",
+        "color": "green",
         "maxZoom": 1.5,
-        "label": "shriji vrindavan"
+        "label": "Shriji Ka Mandir, Vrindavan"
     },
     {
         "id": "marker9",
-        "x": 9546,
-        "y": 7297,
+        "x": 9569,
+        "y": 7453,
         "url": "stuban",
         "maxZoom": 1.5,
-        "label": "Gopeshwar mahadev"
+        "color": "green",
+        "label": "Shri Gopeshwar Mahadev, Vrindavan"
     },
     {
         "id": "marker10",
-        "x": 9146,
-        "y": 7489,
+        "x": 9369,
+        "y": 7663,
         "url": "stuban",
         "maxZoom": 1.5,
-        "label": "shri Chaitanya mahaprabhu baithak"
+        "color": "green",
+        "label": "Shri Chaitanya Mahaprabhu Baithak, Radha Kund"
     },
     {
         "id": "marker11",
-        "x": 9441,
-        "y": 6971,
+        "x": 9401,
+        "y": 7154,
         "url": "stuban",
         "maxZoom": 1.5,
-        "label": "maan sarovar"
-    },
-    {
-        "id": "marker12",
-        "x": 8677,
-        "y": 7222,
-        "url": "stuban",
-        "maxZoom": 1.5,
-        "label": "madan mohan temple"
+        "color": "green",
+        "label": "Maan Sarovar, Vrindavan"
     },
     {
         "id": "marker13",
-        "x": 9493,
-        "y": 7365,
+        "x": 9664,
+        "y": 7512,
         "url": "stuban",
         "maxZoom": 1.5,
-        "label": "Bhramha kund"
+        "color": "green",
+        "label": "Shri Brahma Kund, Vrindavan"
     },
     {
         "id": "marker14",
-        "x": 8504,
-        "y": 7270,
+        "x": 8464,
+        "y": 7430,
         "url": "stuban",
         "maxZoom": 1.5,
-        "label": "Kaliya Ghat"
+        "color": "green",
+        "label": "Kalideh (Kaaliya Ghat), Vrindavan"
     },
     {
         "id": "marker15",
-        "x": 9177,
-        "y": 7102,
+        "x": 9148,
+        "y": 7150,
         "url": "stuban",
+        "color": "green",
         "maxZoom": 1.5,
-        "label": "kesi ghat"
+        "label": "Keshi Ghat, Vrindavan"
     },
     {
         "id": "marker16",
-        "x": 8662,
-        "y": 7489,
+        "x": 8622,
+        "y": 7657,
         "url": "stuban",
         "maxZoom": 1.5,
-        "label": "Davanal Kund"
+        "label": "Davanal Kund, Vrindavan"
     },
     {
         "id": "marker17",
-        "x": 9219,
-        "y": 7382,
+        "x": 9158,
+        "y": 7550,
+        "color": "green",
         "url": "stuban",
         "maxZoom": 1.5,
         "label": "Old Radha Govinddev temple"
     },
     {
         "id": "marker18",
-        "x": 9062,
-        "y": 7316,
+        "x": 9085,
+        "y": 7430,
         "url": "stuban",
         "maxZoom": 1.5,
         "label": "NidhiVan"
