@@ -139,6 +139,7 @@
         "y": 7657,
         "url": "stuban",
         "maxZoom": 1.5,
+        "color": "green",
         "label": "Davanal Kund, Vrindavan"
     },
     {
@@ -156,6 +157,7 @@
         "y": 7430,
         "url": "stuban",
         "maxZoom": 1.5,
+        "color": "green",
         "label": "NidhiVan"
     }
 ]
