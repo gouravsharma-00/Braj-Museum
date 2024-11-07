@@ -1,5 +1,4 @@
 import { useRef, useEffect } from 'react';
-
 const Temple = ({ isOpen, setIsOpen, temple }) => {
     const dialogRef = useRef(null);
     const panoramaElement = useRef(null);
@@ -24,7 +23,7 @@ const Temple = ({ isOpen, setIsOpen, temple }) => {
                             "pitch": 10,
                             "yaw": 0,
                             "type": "equirectangular",
-                            "panorama": "/ThreeSixty_img/60e3f60aec5d1f0008e1c908.jpeg"
+                            "panorama": `/views/${temple}.jpeg`
                         }
                     }
                 });

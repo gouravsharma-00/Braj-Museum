@@ -1,19 +1,21 @@
 [
     {
-        "id": "marker122",
-        "x": 8556,
-        "y": 7441,
+        "id": "marker99",
+        "x": 8530,
+        "y": 7600,
         "url": "temples/krishnabalramtempleisckon.html",
         "maxZoom": 0.4,
-        "label": "Krishna Balaram Temple (ISCKON)"
+        "color": "green",
+        "label": "Krishna Balaram Temple"
     },
     {
-        "id": "marker1",
-        "x": 8590,
-        "y": 7431,
+        "id": "marker88",
+        "x": 8453,
+        "y": 7560,
         "url": "temples/krishnabalramtempleisckon.html",
         "maxZoom": 0.4,
-        "label": "Krishna Balaram Temple (ISCKON)"
+        "color": "green",
+        "label": "Old Radha Govind Dev Temple"
     },
     {
         "id": "marker2",

@@ -51,14 +51,13 @@ const OpenSeadragonViewer = () => {
                 }
             });
         });
-        
-
         // Function to add a marker
         const addMarker = (markerData) => {
             const marker = document.createElement('div');
             marker.id = markerData.id;
             marker.className = 'marker';
             marker.style.pointerEvents = 'auto';
+            marker.style.backgroundColor = markerData.color ;
         
             marker.addEventListener('click', (event) => {
                 event.stopPropagation();

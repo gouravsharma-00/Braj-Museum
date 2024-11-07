@@ -1,8 +1,8 @@
 [
     {
         "id": "marker1",
-        "x": 4550,
-        "y": 3000,
+        "x": 4440,
+        "y": 2998,
         "url": "https://example.com",
         "maxZoom": 1.5,
         "label": "Wan Bihari Mandir"
