@@ -112,7 +112,7 @@ const OpenSeadragonViewer = () => {
                     }
                 </select>
             </div>
-            <div id="openseadragon" style={{ width: '50%', height: '99vh' }} />
+            <div id="openseadragon" style={{ width: '90%', height: '99vh' }} />
         </div>
 );
 };

@@ -159,5 +159,60 @@
         "maxZoom": 1.5,
         "color": "green",
         "label": "NidhiVan"
+    },
+    {
+        "id": "marker19",
+        "x": 9474,
+        "y": 7250,
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "green",
+        "label": "Sri Radha Raman's Appearance place, Vrindavan"
+    }
+    ,
+    {
+        "id": "marker20",
+        "x": 9253,
+        "y": 7379,
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "green",
+        "label": "Yamuna From Sri Gopinath Bhawan, Imlitala, Vrindavan"
+    },
+    {
+        "id": "marker21",
+        "x": 9085,
+        "y": 7760,
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "green",
+        "label": "Shri Yamuna Devi, Vrindavan"
+    },
+    {
+        "id": "marker22",
+        "x": 9064,
+        "y": 7948,
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "green",
+        "label": "Lane near Old Raas Mandal near Yamuna, Vrindavan"
+    },
+    {
+        "id": "marker23",
+        "x": 9158,
+        "y": 7100,
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "green",
+        "label": "Shri Yamuna Mandir, Keshi Ghat, Vrindavan"
+    },
+    {
+        "id": "marker24",
+        "x": 9158,
+        "y": 7100,
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "green",
+        "label": "Shri Yamuna Mandir, Keshi Ghat, Vrindavan"
     }
 ]
