@@ -19,19 +19,21 @@
     },
     {
         "id": "marker2",
-        "x": 8504,
-        "y": 7403,
+        "x": 9032,
+        "y": 7500,
         "url": "temples/shriradhavallabhtemple.html",
+        "color": "green",
         "maxZoom": 1.5,
-        "label": "Radha Vallabh ji Temple"
+        "label": "Sewa Kunj View 2, Vrindavan"
     },
     {
         "id": "marker3",
-        "x": 9198,
-        "y": 7080,
+        "x": 8369,
+        "y": 7380,
         "url": "stuban",
         "maxZoom": 1.5,
-        "label": "Shri Radharaman Temple"
+        "color": "green",
+        "label": "Sri Madan Mohan Temple, Vrindavan"
     },
     {
         "id": "marker4",
