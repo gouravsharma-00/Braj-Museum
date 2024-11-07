@@ -46,7 +46,7 @@ Below are the key files and their roles within the project:
 
 ## License
 
-This project is open-source and licensed under the [License](LICENSE).
+This project is not open-source and licensed under the [License](LICENSE).
 
 ## Acknowledgments
 
