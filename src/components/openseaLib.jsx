@@ -59,13 +59,26 @@ const OpenSeadragonViewer = () => {
             marker.style.pointerEvents = 'auto';
             marker.style.backgroundColor = markerData.color ;
         
+            const tag = document.createElement('span');
+            tag.className = 'tag';
+            tag.textContent = markerData.label;
             marker.addEventListener('click', (event) => {
                 event.stopPropagation();
                 // window.open(markerData.url, '_blank');
                 setTemple(markerData.label)
                 setIsOpen(true);
             });
-        
+
+            marker.addEventListener('mouseover', () => {
+                tag.style.display = 'block';
+            });
+
+            marker.addEventListener('mouseout', () => {
+                tag.style.display = 'none';
+            });
+            marker.appendChild(tag);
+            
+            
             // Normalize coordinates to OpenSeadragon's coordinate system
             const normalizedX = markerData.x / 11927;
             const normalizedY = markerData.y / 12215;
@@ -77,6 +90,7 @@ const OpenSeadragonViewer = () => {
         
             // Initially hide the marker
             marker.style.display = 'none';
+            tag.style.display = 'none';
         };
         
         // Add all markers

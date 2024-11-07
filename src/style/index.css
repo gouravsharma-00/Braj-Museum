@@ -141,5 +141,17 @@ footer {
   .icon-link:hover {
     color: #ffdd57;
   }
+
+  .tag {
+    background-color: #ffdd57;
+    color: #1f2024;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-right: 10px;
+    font-size: 14px;
+    font-weight: bold;
+
+    width: max-content;
+  }
   
   
