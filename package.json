@@ -13,7 +13,8 @@
     "openseadragon": "^2.4.0",
     "photo-sphere-viewer": "^4.8.1",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "styled-components": "^6.1.13"
   },
   "devDependencies": {
     "@eslint/js": "^9.11.1",

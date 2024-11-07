@@ -103,7 +103,7 @@ const OpenSeadragonViewer = () => {
         <div>
             <Temple isOpen={isOpen} setIsOpen={setIsOpen} temple={temple} />
             <div className="take">
-                <select onChange={handleMarker}>
+                <select onChange={handleMarker} style={{height: "30px"}}>
                     <option value="">Select Your Location</option>
                     {
                         markers.map((marker)=>{
