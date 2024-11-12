@@ -1,6 +1,4 @@
 import OpenSeadragon from "openseadragon";
-// dialog box for 360* view
-import Temple from "./templeView";
 import React, { useEffect, useRef, useState } from "react";
 
 import markers from "./data.json";
@@ -8,8 +6,6 @@ import markers from "./data.json";
 
 const OpenSeadragonViewer = () => {
     const viewerRef = useRef(null);
-    const [isOpen, setIsOpen] = useState(false);
-    const [temple, setTemple] = useState("");
     
     useEffect(() => {
         // Initialize the OpenSeadragon viewer
@@ -64,9 +60,7 @@ const OpenSeadragonViewer = () => {
             tag.textContent = markerData.label;
             marker.addEventListener('click', (event) => {
                 event.stopPropagation();
-                // window.open(markerData.url, '_blank');
-                setTemple(markerData.label)
-                setIsOpen(true);
+                window.open(`/panaroma/${markerData.label}`, '_blank');
             });
 
             marker.addEventListener('mouseover', () => {
@@ -115,7 +109,6 @@ const OpenSeadragonViewer = () => {
     }
     return (
         <div style={{display: "flex", justifyContent: "center", alignItems: "center"}}>
-            <Temple isOpen={isOpen} setIsOpen={setIsOpen} temple={temple} />
             <div className="take">
                 <select onChange={handleMarker} style={{height: "30px"}}>
                     <option value="">Select Your Location</option>
