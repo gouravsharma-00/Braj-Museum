@@ -229,7 +229,7 @@
     
     {
         "id": "marker1",
-        "X": 4956,
+        "x": 4956,
         "y": 4652,
         "label": "Kokila ban bihari",
         "url": "stuban",
@@ -238,7 +238,7 @@
     },
     {
         "id": "marker2",
-        "X": 4999,
+        "x": 4999,
         "y": 4699,
         "label": "Rash mandal",
         "url": "stuban",
@@ -247,7 +247,7 @@
     },
     {
         "id": "marker3",
-        "X": 5419,
+        "x": 5419,
         "y": 4707,
         "label": "Pandav gufa",
         "url": "stuban",
@@ -256,7 +256,7 @@
     },
     {
         "id": "marker4",
-        "X": 5298,
+        "x": 5298,
         "y": 4812,
         "label": "Sanidav mandir",
         "url": "stuban",
@@ -265,7 +265,7 @@
     },
     {
         "id": "marker5",
-        "X": 5263,
+        "x": 5263,
         "y": 4856,
         "label": "Mahaprabhu Vallabhacharya",
         "url": "stuban",
@@ -274,7 +274,7 @@
     },
     {
         "id": "marker6",
-        "X": 5184,
+        "x": 5184,
         "y": 5040,
         "label": "Radhakant Mandir",
         "url": "stuban",
@@ -283,7 +283,7 @@
     },
     {
         "id": "marker7",
-        "X": 5109,
+        "x": 5109,
         "y": 5099,
         "label": "Ter kadamba pond",
         "url": "stuban",
@@ -292,7 +292,7 @@
     },
     {
         "id": "marker8",
-        "X": 5198,
+        "x": 5198,
         "y": 5199,
         "label": "Goswami",
         "url": "stuban",
@@ -301,7 +301,7 @@
     },
     {
         "id": "marker9",
-        "X": 5175,
+        "x": 5175,
         "y": 5247,
         "label": "Nandishwar Mahadev",
         "url": "stuban",
@@ -310,7 +310,7 @@
     },
     {
         "id": "marker10",
-        "X": 4563,
+        "x": 4563,
         "y": 4849,
         "label": "Yugal Kishore Mandir",
         "url": "stuban",
@@ -319,7 +319,7 @@
     },
     {
         "id": "marker11",
-        "X": 4702,
+        "x": 4702,
         "y": 5150,
         "label": "Mahaprabhu Vallabhacharya",
         "url": "stuban",
@@ -328,7 +328,7 @@
     },
     {
         "id": "marker12",
-        "X": 4725,
+        "x": 4725,
         "y": 5201,
         "label": "Chaitanya Mahaprabhu",
         "url": "stuban",
@@ -337,7 +337,7 @@
     },
     {
         "id": "marker13",
-        "X": 4668,
+        "x": 4668,
         "y": 5296,
         "label": "Sanatan Goswami",
         "url": "stuban",
@@ -346,7 +346,7 @@
     },
     {
         "id": "marker14",
-        "X": 4712,
+        "x": 4712,
         "y": 5387,
         "label": "Vrinda kund",
         "url": "stuban",
@@ -355,7 +355,7 @@
     },
     {
         "id": "marker15",
-        "X": 4695,
+        "x": 4695,
         "y": 5337,
         "label": "Gupat pond",
         "url": "stuban",
@@ -364,7 +364,7 @@
     },
     {
         "id": "marker16",
-        "X": 4990,
+        "x": 4990,
         "y": 5430,
         "label": "How Bilau/ Yashoda pond",
         "url": "stuban",
@@ -373,7 +373,7 @@
     },
     {
         "id": "marker17",
-        "X": 4831,
+        "x": 4831,
         "y": 5470,
         "label": "Madhusudhan pond",
         "url": "stuban",
@@ -382,7 +382,7 @@
     },
     {
         "id": "marker18",
-        "X": 5135,
+        "x": 5135,
         "y": 5323,
         "label": "Nanda bhaman",
         "url": "stuban",
@@ -391,7 +391,7 @@
     },
     {
         "id": "marker19",
-        "X": 4733,
+        "x": 4733,
         "y": 5247,
         "label": "Pavan sharobar",
         "url": "stuban",
@@ -400,7 +400,7 @@
     },
     {
         "id": "marker20",
-        "X": 5051,
+        "x": 5051,
         "y": 5166,
         "label": "Moti kundh",
         "url": "stuban",
@@ -409,7 +409,7 @@
     },
     {
         "id": "marker21",
-        "X": 4964,
+        "x": 4964,
         "y": 4983,
         "label": "Gopi Kund",
         "url": "stuban",
@@ -418,7 +418,7 @@
     },
     {
         "id": "marker22",
-        "X": 4960,
+        "x": 4960,
         "y": 5038,
         "label": "Fulbari kund",
         "url": "stuban",
@@ -427,7 +427,7 @@
     },
     {
         "id": "marker23",
-        "X": 4985,
+        "x": 4985,
         "y": 4941,
         "label": "Gaudharvan Kund",
         "url": "stuban",
@@ -436,7 +436,7 @@
     },
     {
         "id": "marker24",
-        "X": 4979,
+        "x": 4979,
         "y": 4883,
         "label": "Gandharv kund",
         "url": "stuban",
@@ -445,7 +445,7 @@
     },
     {
         "id": "marker25",
-        "X": 4993,
+        "x": 4993,
         "y": 4835,
         "label": "gandhogar kund",
         "url": "stuban",
@@ -454,7 +454,7 @@
     },
     {
         "id": "marker26",
-        "X": 4919,
+        "x": 4919,
         "y": 4773,
         "label": "Ratnakar Sarovar",
         "url": "stuban",
@@ -463,7 +463,7 @@
     },
     {
         "id": "marker27",
-        "X": 4787,
+        "x": 4787,
         "y": 4894,
         "label": "Jalbhar kund",
         "url": "stuban",
@@ -472,7 +472,7 @@
     },
     {
         "id": "marker28",
-        "X": 4785,
+        "x": 4785,
         "y": 4938,
         "label": "Bihar kund",
         "url": "stuban",
@@ -481,7 +481,7 @@
     },
     {
         "id": "marker29",
-        "X": 4817,
+        "x": 4817,
         "y": 4992,
         "label": "Belvan Kund",
         "url": "stuban",
@@ -490,7 +490,7 @@
     },
     {
         "id": "marker30",
-        "X": 4668,
+        "x": 4668,
         "y": 5063,
         "label": "Kam sharovar",
         "url": "stuban",
@@ -499,7 +499,7 @@
     },
     {
         "id": "marker31",
-        "X": 4144,
+        "x": 4144,
         "y": 5203,
         "label": "Yashodha kund",
         "url": "stuban",
@@ -508,7 +508,7 @@
     },
     {
         "id": "marker32",
-        "X": 5289,
+        "x": 5289,
         "y": 4747,
         "label": "Panihari kund",
         "url": "stuban",
@@ -517,7 +517,7 @@
     },
     {
         "id": "marker33",
-        "X": 5416,
+        "x": 5416,
         "y": 4658,
         "label": "Pandhav Gufa",
         "url": "stuban",
@@ -526,7 +526,7 @@
     },
     {
         "id": "marker34",
-        "X": 5409,
+        "x": 5409,
         "y": 4656,
         "label": "Pandhav Gannga",
         "url": "stuban",
@@ -535,7 +535,7 @@
     },
     {
         "id": "marker35",
-        "X": 4717,
+        "x": 4717,
         "y": 5539,
         "label": "Charan pahadhi",
         "url": "stuban",
@@ -544,7 +544,7 @@
     },
     {
         "id": "marker36",
-        "X": 4768,
+        "x": 4768,
         "y": 5091,
         "label": "Nandhgram van",
         "url": "stuban",
@@ -553,7 +553,7 @@
     },
     {
         "id": "marker37",
-        "X": 4372,
+        "x": 4372,
         "y": 4889,
         "label": "Sicha van",
         "url": "stuban",
@@ -562,7 +562,7 @@
     },
     {
         "id": "marker38",
-        "X": 5309,
+        "x": 5309,
         "y": 4986,
         "label": "kishuri van",
         "url": "stuban",
@@ -571,7 +571,7 @@
     },
     {
         "id": "marker39",
-        "X": 5117,
+        "x": 5117,
         "y": 5454,
         "label": "Nandh kund",
         "url": "stuban",
@@ -580,7 +580,7 @@
     },
     {
         "id": "marker40",
-        "X": 5294,
+        "x": 5294,
         "y": 5391,
         "label": "Kirshna kund",
         "url": "stuban",
