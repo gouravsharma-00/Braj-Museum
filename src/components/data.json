@@ -586,6 +586,1378 @@
         "url": "stuban",
         "maxZoom": 1.5,
         "color": "red"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    {
+        "id": "marker1",
+        "x": 4956,
+        "y": 4652,
+        "label": "Kokila ban bihari",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker2",
+        "x": 4999,
+        "y": 4699,
+        "label": "Rash mandal",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker3",
+        "x": 5419,
+        "y": 4707,
+        "label": "Pandav gufa",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker4",
+        "x": 5298,
+        "y": 4812,
+        "label": "Sanidav mandir",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker5",
+        "x": 5263,
+        "y": 4856,
+        "label": "Mahaprabhu Vallabhacharya",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker6",
+        "x": 5184,
+        "y": 5040,
+        "label": "Radhakant Mandir",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker7",
+        "x": 5109,
+        "y": 5099,
+        "label": "Ter kadamba pond",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker8",
+        "x": 5198,
+        "y": 5199,
+        "label": "Goswami",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker9",
+        "x": 5175,
+        "y": 5247,
+        "label": "Nandishwar Mahadev",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker10",
+        "x": 4563,
+        "y": 4849,
+        "label": "Yugal Kishore Mandir",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker11",
+        "x": 4702,
+        "y": 5150,
+        "label": "Mahaprabhu Vallabhacharya",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker12",
+        "x": 4725,
+        "y": 5201,
+        "label": "Chaitanya Mahaprabhu",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker13",
+        "x": 4668,
+        "y": 5296,
+        "label": "Sanatan Goswami",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker14",
+        "x": 4712,
+        "y": 5387,
+        "label": "Vrinda kund",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker15",
+        "x": 4695,
+        "y": 5337,
+        "label": "Gupat pond",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker16",
+        "x": 4990,
+        "y": 5430,
+        "label": "How Bilau/ Yashoda pond",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker17",
+        "x": 4831,
+        "y": 5470,
+        "label": "Madhusudhan pond",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker18",
+        "x": 5135,
+        "y": 5323,
+        "label": "Nanda bhaman",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker19",
+        "x": 4733,
+        "y": 5247,
+        "label": "Pavan sharobar",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker20",
+        "x": 5051,
+        "y": 5166,
+        "label": "Moti kundh",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker21",
+        "x": 4964,
+        "y": 4983,
+        "label": "Gopi Kund",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker22",
+        "x": 4960,
+        "y": 5038,
+        "label": "Fulbari kund",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker23",
+        "x": 4985,
+        "y": 4941,
+        "label": "Gaudharvan Kund",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker24",
+        "x": 4979,
+        "y": 4883,
+        "label": "Gandharv kund",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker25",
+        "x": 4993,
+        "y": 4835,
+        "label": "gandhogar kund",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker26",
+        "x": 4919,
+        "y": 4773,
+        "label": "Ratnakar Sarovar",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker27",
+        "x": 4787,
+        "y": 4894,
+        "label": "Jalbhar kund",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker28",
+        "x": 4785,
+        "y": 4938,
+        "label": "Bihar kund",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker29",
+        "x": 4817,
+        "y": 4992,
+        "label": "Belvan Kund",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker30",
+        "x": 4668,
+        "y": 5063,
+        "label": "Kam sharovar",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker31",
+        "x": 4144,
+        "y": 5203,
+        "label": "Yashodha kund",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker32",
+        "x": 5289,
+        "y": 4747,
+        "label": "Panihari kund",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker33",
+        "x": 5416,
+        "y": 4658,
+        "label": "Pandhav Gufa",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker34",
+        "x": 5409,
+        "y": 4656,
+        "label": "Pandhav Gannga",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker35",
+        "x": 4717,
+        "y": 5539,
+        "label": "Charan pahadhi",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker36",
+        "x": 4768,
+        "y": 5091,
+        "label": "Nandhgram van",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker37",
+        "x": 4372,
+        "y": 4889,
+        "label": "Sicha van",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker38",
+        "x": 5309,
+        "y": 4986,
+        "label": "kishuri van",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker39",
+        "x": 5117,
+        "y": 5454,
+        "label": "Nandh kund",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker40",
+        "x": 5294,
+        "y": 5391,
+        "label": "Kirshna kund",
+        "url": "stuban",
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker41",
+        "x": 6084,
+        "y": 4950,
+        "label": "Dhanista sakhi",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker42",
+        "x": 5526,
+        "y": 5526,
+        "label": "Kisori mandir",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker43",
+        "x": 5544,
+        "y": 5183,
+        "label": "Radharani ka charan chin",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker44",
+        "x": 5475,
+        "y": 5242,
+        "label": "Asesvara Mahadeva",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker45",
+        "x": 5340,
+        "y": 5503,
+        "label": "Uddhava kyari",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker46",
+        "x": 5333,
+        "y": 5568,
+        "label": "Purnamasi",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker47",
+        "x": 5221,
+        "y": 5679,
+        "label": "Gopal Bhatt Goswami",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker48",
+        "x": 5226,
+        "y": 5727,
+        "label": "Sanketeshwari Devi",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker49",
+        "x": 5229,
+        "y": 5778,
+        "label": "Radha Sanket Bihari",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker50",
+        "x": 5226,
+        "y": 5818,
+        "label": "Radha Raman Temple Visakha",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker51",
+        "x": 4920,
+        "y": 5637,
+        "label": "Chandravali Sakhi",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker52",
+        "x": 4913,
+        "y": 5689,
+        "label": "Radha Vinod Bihari",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker53",
+        "x": 5046,
+        "y": 5792,
+        "label": "Rash mandal",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker54",
+        "x": 4988,
+        "y": 6042,
+        "label": "Dau Ji",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker55",
+        "x": 4964,
+        "y": 6085,
+        "label": "Narayan Bhatt",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker56",
+        "x": 4835,
+        "y": 5993,
+        "label": "Lalita Sakhi",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker57",
+        "x": 5012,
+        "y": 6186,
+        "label": " Chhapan Katora",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker58",
+        "x": 5835,
+        "y": 5470,
+        "label": "Loknath Goswami/Bhugarbha Goswami",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker59",
+        "x": 5869,
+        "y": 5521,
+        "label": "Radha Vinod Vihari temple",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker60",
+        "x": 5922,
+        "y": 5565,
+        "label": "Chaitanya Mahaprabhu",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker61",
+        "x": 5738,
+        "y": 5787,
+        "label": "Mahadev temple",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker62",
+        "x": 5755,
+        "y": 6199,
+        "label": "Ras Mandal",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker63",
+        "x": 5884,
+        "y": 5970,
+        "label": "Ashwatthama temple",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker64",
+        "x": 5853,
+        "y": 6251,
+        "label": "Bajranath ji",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker65",
+        "x": 5859,
+        "y": 6341,
+        "label": "Bhanu kund",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker66",
+        "x": 5730,
+        "y": 6401,
+        "label": "Mahapadabha Vallabhacharya",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker67",
+        "x": 5770,
+        "y": 6475,
+        "label": "Tugavidya Sakhi",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker68",
+        "x": 5666,
+        "y": 6586,
+        "label": "Dau ji Mandir",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker69",
+        "x": 5410,
+        "y": 6411,
+        "label": "Bajedhar Mahadev",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker70",
+        "x": 5012,
+        "y": 6280,
+        "label": "Shreeji mandir",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker71",
+        "x": 4863,
+        "y": 6320,
+        "label": "Jaipur mandir",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker72",
+        "x": 4725,
+        "y": 6389,
+        "label": "Man Mandir",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker73",
+        "x": 4886,
+        "y": 6397,
+        "label": "Mor kuti",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker74",
+        "x": 5051,
+        "y": 6518,
+        "label": "Chitralekha Sakhi",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker75",
+        "x": 4568,
+        "y": 6616,
+        "label": "Shyam Shila",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker76",
+        "x": 4523,
+        "y": 6663,
+        "label": "Nauubhari chaubari",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker77",
+        "x": 4491,
+        "y": 6814,
+        "label": "Indulekha Sakhi",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker78",
+        "x": 4581,
+        "y": 6827,
+        "label": "Rangdevi Shakhi",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker79",
+        "x": 4741,
+        "y": 6755,
+        "label": "Mtaji Gaushala",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker80",
+        "x": 5332,
+        "y": 6701,
+        "label": "Ras Mandal",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker81",
+        "x": 6015,
+        "y": 7320,
+        "label": "Palita Sakhi",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker82",
+        "x": 6458,
+        "y": 7224,
+        "label": "Surya Narayan Temple",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker83",
+        "x": 7560,
+        "y": 6687,
+        "label": "Shri Brahma Ji mandir",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker84",
+        "x": 8336,
+        "y": 6179,
+        "label": "Vatsa Bihari mandir",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker85",
+        "x": 8284,
+        "y": 5985,
+        "label": "Mahaprabhu Vallabhacharya",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker86",
+        "x": 8414,
+        "y": 5874,
+        "label": "Chaturbhuj mandir",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker87",
+        "x": 8669,
+        "y": 5747,
+        "label": "Nand Baba's residence",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker88",
+        "x": 7129,
+        "y": 5998,
+        "label": "Nari Semri devi",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker89",
+        "x": 9019,
+        "y": 5604,
+        "label": "Jiva Goswami Gufa",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker90",
+        "x": 9104,
+        "y": 5065,
+        "label": "Nand Ghat",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker91",
+        "x": 9104,
+        "y": 5065,
+        "label": "Nand Yashoda mandir",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker92",
+        "x": 9104,
+        "y": 5065,
+        "label": "Gargacharya Muni",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker93",
+        "x": 9104,
+        "y": 5065,
+        "label": "Janau kund",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker94",
+        "x": 9104,
+        "y": 5065,
+        "label": "Katyayani mandir",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker95",
+        "x": 9104,
+        "y": 5065,
+        "label": "Chir Ghat",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker96",
+        "x": 8697,
+        "y": 4775,
+        "label": "BIhari mandir",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker97",
+        "x": 8671,
+        "y": 4730,
+        "label": "Radha Kunj",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker98",
+        "x": 8670,
+        "y": 4683,
+        "label": "Sita Ram Mandir",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker99",
+        "x": 8459,
+        "y": 4445,
+        "label": "Radha Bihari mandir",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker100",
+        "x": 8576,
+        "y": 4428,
+        "label": "Vipnu kund",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker101",
+        "x": 8571,
+        "y": 4433,
+        "label": "Baruni kund",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker102",
+        "x": 8408,
+        "y": 4072,
+        "label": "Ram ghat",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker103",
+        "x": 8323,
+        "y": 4186,
+        "label": "Dahu ji mandir",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker104",
+        "x": 7844,
+        "y": 4327,
+        "label": "Dahu ji mandir",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker105",
+        "x": 6013,
+        "y": 3139,
+        "label": "Nand Yashoda mandir",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker106",
+        "x": 6538,
+        "y": 4041,
+        "label": "Prahlad Narsingh bagman mandir",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker107",
+        "x": 6946,
+        "y": 4364,
+        "label": "Nagrah ji mandir",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker108",
+        "x": 6085,
+        "y": 4950,
+        "label": "Dhaniast shakhi",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker109",
+        "x": 5339,
+        "y": 3451,
+        "label": "Shrinath ji",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker110",
+        "x": 5489,
+        "y": 3505,
+        "label": "Chaitanya Mahaprabhu",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker111",
+        "x": 5010,
+        "y": 3586,
+        "label": "Shri Brajbhushan mandir",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker112",
+        "x": 4924,
+        "y": 3694,
+        "label": "Dadhihari Devi mandir",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker113",
+        "x": 5184,
+        "y": 3841,
+        "label": "Mahaprabhu Vallabhacharya",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker114",
+        "x": 5086,
+        "y": 3973,
+        "label": "Shrinath ji",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker115",
+        "x": 4655,
+        "y": 3951,
+        "label": "Vyas kund",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker116",
+        "x": 4651,
+        "y": 4008,
+        "label": "Shuk kund",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker117",
+        "x": 5044,
+        "y": 4119,
+        "label": "Chran ganga",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker118",
+        "x": 4942,
+        "y": 4188,
+        "label": "Mor kund",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker119",
+        "x": 5179,
+        "y": 4291,
+        "label": "Kuntal kund",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker120",
+        "x": 5103,
+        "y": 4312,
+        "label": "Lakshmi Narayan mandir",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker121",
+        "x": 5231,
+        "y": 4419,
+        "label": "Dau ji mandir",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker122",
+        "x": 5181,
+        "y": 4529,
+        "label": "Balabhadra Kund",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker123",
+        "x": 5789,
+        "y": 4020,
+        "label": "Dahu ji mandir",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker124",
+        "x": 5790,
+        "y": 4082,
+        "label": "Sita Ram Mandir",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker125",
+        "x": 5725,
+        "y": 4148,
+        "label": "Radhakant mandir",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker126",
+        "x": 5671,
+        "y": 4142,
+        "label": "Lakshmi Narayan mandir",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker127",
+        "x": 5604,
+        "y": 4206,
+        "label": "Radh Madhav mandir",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker128",
+        "x": 5664,
+        "y": 4256,
+        "label": "Balaji mandir",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker129",
+        "x": 5660,
+        "y": 4390,
+        "label": "Mahaprabhu Vallabhacharya",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker130",
+        "x": 5788,
+        "y": 4334,
+        "label": "Mahadev mandir",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker131",
+        "x": 5826,
+        "y": 4351,
+        "label": "Radha Vallabh mandir",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker132",
+        "x": 5914,
+        "y": 4319,
+        "label": "Pastmukhi Hanuman mandir",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker133",
+        "x": 5782,
+        "y": 4226,
+        "label": "Gomti ganga",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker134",
+        "x": 5323,
+        "y": 5400,
+        "label": "Krishna kund",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker135",
+        "x": 5305,
+        "y": 5451,
+        "label": "Lalita kund",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker136",
+        "x": 5547,
+        "y": 5129,
+        "label": "Kishori kund",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker137",
+        "x": 5241,
+        "y": 5515,
+        "label": "Nand kund",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker138",
+        "x": 5019,
+        "y": 5590,
+        "label": "Kajal kund",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker139",
+        "x": 4868,
+        "y": 5743,
+        "label": "Chandrabali sharobar",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker140",
+        "x": 5015,
+        "y": 5963,
+        "label": "Prem Sharobar",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker141",
+        "x": 4783,
+        "y": 6094,
+        "label": "Dah kund",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker142",
+        "x": 4699,
+        "y": 6140,
+        "label": "Sakhi kund",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker143",
+        "x": 5603,
+        "y": 6525,
+        "label": "Hari kund",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker144",
+        "x": 5784,
+        "y": 6524,
+        "label": "Rabti kund",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker145",
+        "x": 6488,
+        "y": 5244,
+        "label": "Mansha kund",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker146",
+        "x": 6769,
+        "y": 5078,
+        "label": "Sury kund",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker147",
+        "x": 6680,
+        "y": 5307,
+        "label": "Chandra kund",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker148",
+        "x": 6283,
+        "y": 6616,
+        "label": "Man sharobar",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker149",
+        "x": 5759,
+        "y": 6802,
+        "label": "Rati kali kund",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker150",
+        "x": 6898,
+        "y": 6120,
+        "label": "Gop  kund",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
+    },
+    {
+        "id": "marker151",
+        "x": 5864,
+        "y": 6296,
+        "label": "Prachin Radha kund",
+        "url": null,
+        "maxZoom": 1.5,
+        "color": "red"
     }
 ]
 
