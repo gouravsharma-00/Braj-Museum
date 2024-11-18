@@ -1,0 +1,67 @@
+.top-destinations-container {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 10px;
+  }
+  
+  .slider {
+    overflow: hidden;
+    position: relative;
+    margin: 20px 0;
+  }
+  
+  .slider-wrapper {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  
+  .destination {
+    flex: 1;
+    text-align: center;
+    margin: 10px;
+    text-decoration: none;
+  }
+  
+  .destination-image {
+    width: 100%;
+    min-width: 100px;
+    max-width: 250px;
+    height: 200px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .destination-image:hover {
+    transform: scale(1.05);
+  }
+  
+  .destination-name {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #333;
+  }
+  
+  .slider-controls {
+    margin-top: 20px;
+  }
+  
+  .slider-controls button {
+    margin: 0 10px;
+    padding: 10px 20px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .slider-controls button:hover {
+    background-color: #0056b3;
+  }
+  

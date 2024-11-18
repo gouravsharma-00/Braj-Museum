@@ -1,0 +1,35 @@
+.marker {
+    background-color: rgb(253, 0, 0);
+    border: 2px solid rgb(255, 255, 255);
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    position: absolute;
+    cursor: pointer;
+    /* transform: translate(-50%, -50%); Center the marker */
+    pointer-events: all;
+}
+.marker:hover {
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(0, 0, 0);
+}
+
+
+.take {
+    position: absolute;
+    bottom: 0;
+    z-index: 1000;
+    left: 0;
+}
+
+.tag {
+    background-color: #ffdd57;
+    color: #1f2024;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-right: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    width: max-content;
+    margin-top: 10px;
+  }

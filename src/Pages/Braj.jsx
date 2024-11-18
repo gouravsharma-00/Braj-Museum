@@ -1,13 +1,9 @@
 import OpenSeadragonViewer from "../components/openseaLib";
-import Header from '../components/header';
-import Footer from '../components/footer';
-
+import '../styles/Braj.css';
 const Braj = () => {
   return(
     <>
-      <Header />
       <OpenSeadragonViewer />
-      <Footer />
     </>
   );
 }
