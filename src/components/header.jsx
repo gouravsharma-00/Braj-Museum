@@ -20,7 +20,7 @@ const MainSection = () => {
         <div className="hero-content">
           <h2 className="hero-heading">Discover the Braj's Hidden Wonders</h2>
           <p className="hero-subheading">
-            Explore history, art, and culture like never before. Let the past guide you to the present.
+            Explore history, art, and culture like never before, Let the past guide you to the present.
           </p>
         </div>
       </div>

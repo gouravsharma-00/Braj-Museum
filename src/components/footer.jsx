@@ -41,7 +41,7 @@ const Footer = () => {
             </div>
             <div className='container-bottom'>
                 <div className='footer-text flex'>
-                    <p>© 2024 Braj Museum app</p>
+                    <p>© 2024 Braj Museum App</p>
                 </div>
             </div>
         </footer>
