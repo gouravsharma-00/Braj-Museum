@@ -5,7 +5,6 @@ import MainSection from '../components/Header';
 import Footer from '../components/Footer';
 
 const Home = () => {
-    
     return (
         <>
             <MainSection />
