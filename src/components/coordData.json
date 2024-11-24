@@ -1,0 +1,1794 @@
+[
+    {
+        "id": "c0893647-269c-4972-b67c-37ddfa4589cd",
+        "x": 5012,
+        "y": 6316,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Chhapan Katora"
+    },
+    {
+        "id": "7387b3eb-3e73-42a5-880c-1b18fec00fd7",
+        "x": 5711,
+        "y": 9314,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Apsara Kund"
+    },
+    {
+        "id": "3117db91-12d2-4942-a39f-46ef0d81ca65",
+        "x": 5475,
+        "y": 5372,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Asesvara Mahadeva"
+    },
+    {
+        "id": "8a4115d2-ac1f-457f-b62f-5212c9a23be0",
+        "x": 5884,
+        "y": 6100,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Ashwatthama temple"
+    },
+    {
+        "id": "531c5ef0-89d8-447e-bb1c-ddc984500660",
+        "x": 5410,
+        "y": 6541,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Bajedhar Mahadev"
+    },
+    {
+        "id": "55100206-db9f-4160-9910-ea665923b83c",
+        "x": 5853,
+        "y": 6381,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Bajranath ji"
+    },
+    {
+        "id": "9a5c92f6-dfc9-4752-8bc1-fc2e20475de0",
+        "x": 5181,
+        "y": 4649,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Balabhadra Kund"
+    },
+    {
+        "id": "7293f78c-2eba-408c-affc-9f76d8a44a47",
+        "x": 5664,
+        "y": 4376,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Balaji mandir"
+    },
+    {
+        "id": "88a8f5e9-87a0-4edb-9da3-998539a6dae9",
+        "x": 6427,
+        "y": 8011,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Balram Kund"
+    },
+    {
+        "id": "111176ba-53d4-4e8a-88b1-f1c25fd6df82",
+        "x": 8571,
+        "y": 4553,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Baruni kund"
+    },
+    {
+        "id": "07273c1a-101c-4aa5-89e7-1ca62ebfdbce",
+        "x": 4817,
+        "y": 5092,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Belvan Kund"
+    },
+    {
+        "id": "31e9028a-0242-4e48-b5e0-7f1fd3a39477",
+        "x": 5859,
+        "y": 6471,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Bhanu kund"
+    },
+    {
+        "id": "9d00fd39-6428-435d-9d9d-5403fab32128",
+        "x": 5920,
+        "y": 8759,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Bichhu Kund"
+    },
+    {
+        "id": "0de452e7-210b-4a03-a1c6-534ec169b1dd",
+        "x": 5783,
+        "y": 8720,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Bidhuha Vihari"
+    },
+    {
+        "id": "6e294a82-3126-421d-bf66-1a48834a6041",
+        "x": 4785,
+        "y": 5038,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Bihar kund"
+    },
+    {
+        "id": "b2e76c0c-3e10-40bd-bc01-151db4cb3d72",
+        "x": 8697,
+        "y": 4905,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "BIhari mandir"
+    },
+    {
+        "id": "8ef20fcf-1199-4728-8ece-2856a7e47cfe",
+        "x": 5992,
+        "y": 8655,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Brahma Kund"
+    },
+    {
+        "id": "819bf33b-85ed-4ff6-9ac9-18f8e95fcd20",
+        "x": 4725,
+        "y": 5301,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Chaitanya Mahaprabhu"
+    },
+    {
+        "id": "c017fc0f-6c47-4911-8738-77ab4acb812a",
+        "x": 5922,
+        "y": 5695,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Chaitanya Mahaprabhu"
+    },
+    {
+        "id": "2a9b685d-d256-4147-a5cb-54d68d07696f",
+        "x": 5489,
+        "y": 3625,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Chaitanya Mahaprabhu"
+    },
+    {
+        "id": "f51e1b51-5166-4400-ad31-df1de225c62a",
+        "x": 5977,
+        "y": 8556,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Chakreshwar Mahadev"
+    },
+    {
+        "id": "b9efbced-6b60-4ec0-94f1-403ed6fdc584",
+        "x": 6680,
+        "y": 5427,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Chandra kund"
+    },
+    {
+        "id": "7daae738-def2-402f-ad11-55f9d4cd8908",
+        "x": 4868,
+        "y": 5863,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Chandrabali sharobar"
+    },
+    {
+        "id": "8a64e5bd-2832-4b81-86d1-df7166014074",
+        "x": 4920,
+        "y": 5767,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Chandravali Sakhi"
+    },
+    {
+        "id": "96f56ae7-4a8d-49fc-895c-6d0d53730ea8",
+        "x": 4717,
+        "y": 5639,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Charan pahadhi"
+    },
+    {
+        "id": "de1e1f51-765c-4ad5-b957-e07591eca305",
+        "x": 5584,
+        "y": 8793,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Chatitanya Mahaprabhu"
+    },
+    {
+        "id": "e5699773-930c-4486-bda3-fe571330a0bf",
+        "x": 8414,
+        "y": 6004,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Chaturbhuj mandir"
+    },
+    {
+        "id": "a32438eb-bc0d-4d68-b952-145228ac9a10",
+        "x": 9104,
+        "y": 5195,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Cheer Ghat, Vrindavan"
+    },
+    {
+        "id": "e69561e7-a81f-4362-812d-a8315b09ba77",
+        "x": 5051,
+        "y": 6648,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Chitralekha Sakhi"
+    },
+    {
+        "id": "f33456aa-be89-4030-997f-e661963581d7",
+        "x": 5044,
+        "y": 4239,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Chran ganga"
+    },
+    {
+        "id": "e43439c1-e1c3-403b-ae82-f0bf0b388ce9",
+        "x": 4924,
+        "y": 3814,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Dadhihari Devi mandir"
+    },
+    {
+        "id": "249a86cd-2e89-4ee0-b411-d2a75309ce1b",
+        "x": 4783,
+        "y": 6214,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Deha Kunda (Uncha Gauv)"
+    },
+    {
+        "id": "264ed284-490b-4467-b41a-e67601514aa9",
+        "x": 8323,
+        "y": 4306,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Dahu ji mandir"
+    },
+    {
+        "id": "a5eb23a6-20c5-4e32-8cb6-082c15655858",
+        "x": 7844,
+        "y": 4447,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Dahu ji mandir"
+    },
+    {
+        "id": "e5ab23b8-cc6a-4b56-8b7d-afe05eb6d5a7",
+        "x": 5789,
+        "y": 4140,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Dahu ji mandir"
+    },
+    {
+        "id": "f7bc298c-cdf6-459d-a469-87c9891b5376",
+        "x": 5607,
+        "y": 8887,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Dandavati Shila"
+    },
+    {
+        "id": "7b68efdf-da65-41a3-a29c-e315cfb4edc6",
+        "x": 6165,
+        "y": 8784,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Danivartan Kund"
+    },
+    {
+        "id": "c89c1db7-8ea8-4230-be03-162534724f87",
+        "x": 5688,
+        "y": 9217,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Dau  ji"
+    },
+    {
+        "id": "e6285b0c-3300-4cb2-83c3-1c58a07de925",
+        "x": 4988,
+        "y": 6172,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Dau Ji"
+    },
+    {
+        "id": "898b55cd-ab44-4e5a-87de-8337efe8c057",
+        "x": 5666,
+        "y": 6716,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Dau ji Mandir"
+    },
+    {
+        "id": "8770af76-b520-4c4a-9fa5-e8fa0e53821b",
+        "x": 5231,
+        "y": 4539,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Dau ji mandir"
+    },
+    {
+        "id": "25f9db29-13ee-4a2e-bc80-f194897c4449",
+        "x": 8622,
+        "y": 7657,
+        "maxZoom": 1.5,
+        "color": "green",
+        "label": "Davanal Kund, Vrindavan"
+    },
+    {
+        "id": "e1efa00d-f1d7-448b-b5e7-9816583f6220",
+        "x": 5280,
+        "y": 8168,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Devshirsha Kund"
+    },
+    {
+        "id": "d935e7ca-13ca-415a-b913-3a012e4c065e",
+        "x": 6085,
+        "y": 5070,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Dhaniast shakhi"
+    },
+    {
+        "id": "6a270fa4-6a7f-4ecc-a9bf-d91943fe3a29",
+        "x": 6084,
+        "y": 5080,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Dhanista sakhi"
+    },
+    {
+        "id": "cd5086c6-3d2b-4947-8be5-2492df28dad3",
+        "x": 4960,
+        "y": 5138,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Fulbari kund"
+    },
+    {
+        "id": "db54ebca-9cba-47dd-9b80-c6d6abf77bb3",
+        "x": 4979,
+        "y": 4983,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Gandharv kund"
+    },
+    {
+        "id": "008707e4-13bf-47ad-b212-a32014dc13df",
+        "x": 4993,
+        "y": 4935,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "gandhogar kund"
+    },
+    {
+        "id": "f717edf3-6897-4df2-bc3f-cb5993f5c024",
+        "x": 9104,
+        "y": 5195,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Gargacharya Muni"
+    },
+    {
+        "id": "a12d990b-2256-4cb3-ab52-eb8e6bbd883b",
+        "x": 4985,
+        "y": 5041,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Gaudharvan Kund"
+    },
+    {
+        "id": "a688a028-2ac8-4ac0-b7a1-e2a44e3da166",
+        "x": 6128,
+        "y": 9157,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Gauri Kund"
+    },
+    {
+        "id": "9d112c24-a3c7-4717-a532-f7df98850f0a",
+        "x": 5782,
+        "y": 4346,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Gomti ganga"
+    },
+    {
+        "id": "a1f9c3c2-81a1-40f5-8384-93ba74b2c31a",
+        "x": 5451,
+        "y": 7444,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Goo kund"
+    },
+    {
+        "id": "faccf49a-3a1f-43f7-95bd-5af00bbf0123",
+        "x": 6898,
+        "y": 6240,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Gop  kund"
+    },
+    {
+        "id": "282c91ed-e109-4ecd-8964-93f907620b9b",
+        "x": 5221,
+        "y": 5809,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Gopal Bhatt Goswami"
+    },
+    {
+        "id": "5b2024d6-37db-416d-a13b-47a48aca54d5",
+        "x": 5865,
+        "y": 8960,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Gopal mandir"
+    },
+    {
+        "id": "ff6b1295-dd2b-4b6d-bb25-dbdf45d4abf8",
+        "x": 4964,
+        "y": 5083,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Gopi Kund"
+    },
+    {
+        "id": "e89a96cc-4b42-4879-8341-2720a16fbc37",
+        "x": 6640,
+        "y": 8172,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Gopi Kund"
+    },
+    {
+        "id": "8d076e37-8d3b-48b3-881b-8dd9ff37854f",
+        "x": 5198,
+        "y": 5299,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Goswami"
+    },
+    {
+        "id": "0d6753fe-f19c-4cba-a9cb-f5b316051098",
+        "x": 5867,
+        "y": 9130,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Govind Kund"
+    },
+    {
+        "id": "46972e89-2c60-49ee-9e26-a72afb9e4169",
+        "x": 4695,
+        "y": 5437,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Gupat pond"
+    },
+    {
+        "id": "f31bc052-00a8-4e4b-8daf-facfce1d5da9",
+        "x": 5774,
+        "y": 8446,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Gwal Kund"
+    },
+    {
+        "id": "54f71107-2ff3-4280-9c1a-1bbe6bce1196",
+        "x": 6294,
+        "y": 10068,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Gyan Kund"
+    },
+    {
+        "id": "d9937082-5c49-4f4f-8eed-41cfe1c26248",
+        "x": 5481,
+        "y": 7622,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Hans Sarovar"
+    },
+    {
+        "id": "3769bcce-a2f8-4f9d-860a-da9c35c66f5f",
+        "x": 5603,
+        "y": 6645,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Hari kund"
+    },
+    {
+        "id": "eaed6cd9-1128-45c9-9028-55f7cc37bab7",
+        "x": 4990,
+        "y": 5530,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "How Bilau/ Yashoda pond"
+    },
+    {
+        "id": "3a251c1f-5ad4-4644-911f-0da4e63636e2",
+        "x": 4491,
+        "y": 6944,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Indulekha Sakhi"
+    },
+    {
+        "id": "e99c790e-0f06-403c-a3fa-7be3c9b65675",
+        "x": 9011,
+        "y": 7210,
+        "maxZoom": 1.5,
+        "color": "green",
+        "label": "Imlitala Vrindavan"
+    },
+    {
+        "id": "6a863a16-5068-4a84-8cc8-f9eb464adcff",
+        "x": 4863,
+        "y": 6450,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Jaipur mandir"
+    },
+    {
+        "id": "7651521d-3fca-48f7-9572-53d3bcb3c8b7",
+        "x": 4787,
+        "y": 4994,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Jalbhar kund"
+    },
+    {
+        "id": "df7bd844-70b4-4292-bb9c-6de1424fe223",
+        "x": 9104,
+        "y": 5195,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Janau kund"
+    },
+    {
+        "id": "7e2e46d5-6776-4ccc-9a01-3b9d640ad6cf",
+        "x": 9019,
+        "y": 5734,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Jiva Goswami Gufa"
+    },
+    {
+        "id": "5cd67f77-5053-4d37-a79a-206bde0d4ff1",
+        "x": 5019,
+        "y": 5710,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Kajal kund"
+    },
+    {
+        "id": "896c7e78-875d-4cf1-99bf-e831d45868f4",
+        "x": 8464,
+        "y": 7430,
+        "maxZoom": 1.5,
+        "color": "green",
+        "label": "Kalideh (Kaaliya Ghat), Vrindavan"
+    },
+    {
+        "id": "5ac67574-49fc-4d7a-a1ce-a01ea7fe7422",
+        "x": 4668,
+        "y": 5163,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Kam sharovar"
+    },
+    {
+        "id": "45264a32-bbb1-4c4c-8a83-787b1858c335",
+        "x": 9104,
+        "y": 5195,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Katyayani mandir"
+    },
+    {
+        "id": "6bc205dd-b1c2-49da-ae5d-d62620ae8c66",
+        "x": 9148,
+        "y": 7150,
+        "maxZoom": 1.5,
+        "color": "green",
+        "label": "Keshi Ghat, Vrindavan"
+    },
+    {
+        "id": "b011d9f2-b572-4bb7-819f-30849dd29ce7",
+        "x": 6422,
+        "y": 8656,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Kilol Kund"
+    },
+    {
+        "id": "3915be39-3aa4-4426-9964-4d855eb366ee",
+        "x": 5294,
+        "y": 5491,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Krishn Kund or Madhu Kund, Madhuvan"
+    },
+    {
+        "id": "886efa42-4394-401f-b1e3-4d5d67678969",
+        "x": 5547,
+        "y": 5249,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Kishori kund"
+    },
+    {
+        "id": "0801f2e8-a784-4ca4-8b99-e605388404ea",
+        "x": 5309,
+        "y": 5086,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Darshan of Yugal Kishor at Kishor Van, Vrindavan"
+    },
+    {
+        "id": "0af6a283-0bde-44da-90b2-050675289f4a",
+        "x": 5526,
+        "y": 5656,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Kisori mandir"
+    },
+    {
+        "id": "db6657aa-980a-4eec-b084-d598a451f912",
+        "x": 4956,
+        "y": 4752,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Kokila ban bihari"
+    },
+    {
+        "id": "35365ad4-8377-4e01-8d00-aa5f8b810d13",
+        "x": 5787,
+        "y": 9556,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Kothra Kund"
+    },
+    {
+        "id": "1311bcbf-7bea-44c2-97ad-0152bc9b6e91",
+        "x": 8530,
+        "y": 7600,
+        "maxZoom": 0.4,
+        "color": "green",
+        "label": "Krishna Balaram Temple"
+    },
+    {
+        "id": "82da5662-20b5-48af-94b7-0d6b4a8f60d0",
+        "x": 5323,
+        "y": 5520,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Krishna kund"
+    },
+    {
+        "id": "566b183d-be8e-4598-9040-5506de3278b9",
+        "x": 6687,
+        "y": 8664,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Kumbhandas Kund"
+    },
+    {
+        "id": "308674c1-c0c3-49f2-9a56-3b4cc487c156",
+        "x": 5179,
+        "y": 4411,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Kuntal kund"
+    },
+    {
+        "id": "aaeb72c9-7432-40dd-9b3c-5c1ccb48e68b",
+        "x": 7056,
+        "y": 8664,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Kup Kund"
+    },
+    {
+        "id": "7f49e720-a15b-4f72-8a2e-4eca4305c378",
+        "x": 6361,
+        "y": 8378,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Kusum Sarovar Govardhan"
+    },
+    {
+        "id": "4d9fe344-9004-4626-9015-f0f52a64a09f",
+        "x": 5103,
+        "y": 4432,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Lakshmi Narayan mandir"
+    },
+    {
+        "id": "e0488994-d3fe-468d-8efa-ece44bc191ed",
+        "x": 5671,
+        "y": 4262,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Lakshmi Narayan mandir"
+    },
+    {
+        "id": "a325e386-dfe8-4525-811a-92670681d108",
+        "x": 5305,
+        "y": 5571,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Lalita Kund near Radha Kund, Goverdhan"
+    },
+    {
+        "id": "6095303b-f99f-4074-a305-d41719412728",
+        "x": 6569,
+        "y": 8026,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Lalita kund"
+    },
+    {
+        "id": "23670f2f-45e8-4bf8-9aff-4bd269285996",
+        "x": 4835,
+        "y": 6123,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Lalita Sakhi"
+    },
+    {
+        "id": "b1021864-67c4-450e-9c6e-4d984f6ff40e",
+        "x": 9064,
+        "y": 7948,
+        "maxZoom": 1.5,
+        "color": "green",
+        "label": "Lane near Old Raas Mandal near Yamuna, Vrindavan"
+    },
+    {
+        "id": "57990a04-346f-4258-befb-bd57988241df",
+        "x": 5640,
+        "y": 7513,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Laxman kund"
+    },
+    {
+        "id": "390ff214-5344-4a82-b32b-f55ed79b31e2",
+        "x": 5835,
+        "y": 5600,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Loknath Goswami/Bhugarbha Goswami"
+    },
+    {
+        "id": "24afccdc-e8d1-43be-b770-21489dbb3a4b",
+        "x": 5651,
+        "y": 9175,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Look Look"
+    },
+    {
+        "id": "64748590-05bc-469b-8712-446e654869a2",
+        "x": 9401,
+        "y": 7154,
+        "maxZoom": 1.5,
+        "color": "green",
+        "label": "Maan Sarovar, Vrindavan"
+    },
+    {
+        "id": "14bb4df5-760c-4f6b-842d-94bef23a4d23",
+        "x": 4831,
+        "y": 5570,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Madhusudhan pond"
+    },
+    {
+        "id": "0a88f4ba-aed3-44fe-b247-07f0662e867a",
+        "x": 5788,
+        "y": 4454,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Mahadev mandir"
+    },
+    {
+        "id": "1dcd8e45-87fe-449e-833c-3b69c75c0fe2",
+        "x": 5738,
+        "y": 5917,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Mahadev temple"
+    },
+    {
+        "id": "a705c5ae-fb9d-44be-a875-01c5df539e57",
+        "x": 5730,
+        "y": 6531,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Mahapadabha Vallabhacharya"
+    },
+    {
+        "id": "92129a66-b195-4625-b167-a86947f9e10e",
+        "x": 5263,
+        "y": 4956,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Mahaprabhu Vallabhacharya"
+    },
+    {
+        "id": "d92cf99a-c51e-4748-b46a-67ab8a7d6a9a",
+        "x": 4702,
+        "y": 5250,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Mahaprabhu Vallabhacharya"
+    },
+    {
+        "id": "97d08df1-cc80-40d0-9d5c-5bf071099f00",
+        "x": 8284,
+        "y": 6115,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Mahaprabhu Vallabhacharya"
+    },
+    {
+        "id": "673d7c01-3d7a-4589-9ef4-e1c7daafabcb",
+        "x": 5184,
+        "y": 3961,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Mahaprabhu Vallabhacharya"
+    },
+    {
+        "id": "770f3cc6-31e2-47e4-8157-24a109ef3152",
+        "x": 5660,
+        "y": 4510,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Mahaprabhu Vallabhacharya"
+    },
+    {
+        "id": "e492130f-5547-4459-ae1d-4fe9cdb0d521",
+        "x": 4725,
+        "y": 6519,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Man Mandir"
+    },
+    {
+        "id": "0b8ddd2b-eba8-472e-8496-fb2d69c1e5ff",
+        "x": 6283,
+        "y": 6736,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Front View of Maan Sarovar"
+    },
+    {
+        "id": "04b3cda3-8d7f-4a3d-97db-6915496f4011",
+        "x": 6488,
+        "y": 5364,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Mansha kund"
+    },
+    {
+        "id": "ac55f609-7884-41b6-a97d-96cc3271a67b",
+        "x": 5973,
+        "y": 8609,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Mansi Ganga, Goverdhan"
+    },
+    {
+        "id": "3e276190-7601-4348-ac5e-ed553f1338e9",
+        "x": 4942,
+        "y": 4308,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Mor kund"
+    },
+    {
+        "id": "4efe783e-382f-41b0-9ac7-d7e37f438780",
+        "x": 4886,
+        "y": 6527,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Mor kuti"
+    },
+    {
+        "id": "9af47c05-f685-4957-9e06-ffe8bbdb7c8b",
+        "x": 5051,
+        "y": 5266,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Moti kundh"
+    },
+    {
+        "id": "4564dd7a-9f18-4ae4-a984-bf00a4352ee2",
+        "x": 4741,
+        "y": 6885,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Mtaji Gaushala"
+    },
+    {
+        "id": "8c0e639f-037b-4282-a40c-472b69ea7e7a",
+        "x": 6705,
+        "y": 8468,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Mukhra Sarovar"
+    },
+    {
+        "id": "93d4ea96-951f-43b7-adec-9f77f0e4e33c",
+        "x": 4790,
+        "y": 7864,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Munishirsha Kund"
+    },
+    {
+        "id": "99665e45-581f-4f28-96b0-c5ca21d77fa2",
+        "x": 6946,
+        "y": 4484,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Nagrah ji mandir"
+    },
+    {
+        "id": "023957d4-ed51-4d3f-82cb-2be6a96dca0c",
+        "x": 8669,
+        "y": 5877,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Nand Baba's residence"
+    },
+    {
+        "id": "56464940-c60a-4cee-b5aa-49b9ecfc63e6",
+        "x": 9104,
+        "y": 5195,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Nand Ghat"
+    },
+    {
+        "id": "5e9ca0e3-ba16-447f-b4cc-cc1cec8a5b3f",
+        "x": 5241,
+        "y": 5635,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Nand Baithak and Nand Kund, Nandgaun"
+    },
+    {
+        "id": "bd997027-1c27-4318-b1ca-8505da69c69c",
+        "x": 9104,
+        "y": 5195,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Nand Yashoda mandir"
+    },
+    {
+        "id": "cb3f1c4a-99e2-4269-bc2e-e438c77f5d5d",
+        "x": 6013,
+        "y": 3259,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Nand Yashoda mandir"
+    },
+    {
+        "id": "8ab7e9f4-b55a-48da-8ba1-3bef9a049e65",
+        "x": 5135,
+        "y": 5423,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Nanda bhaman"
+    },
+    {
+        "id": "f98b3eb4-8cee-4a7b-adb3-32f39a323795",
+        "x": 5117,
+        "y": 5554,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Nandh kund"
+    },
+    {
+        "id": "0ead78a7-d0ac-4a98-b452-2af205a36357",
+        "x": 4768,
+        "y": 5191,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Nandhgram van"
+    },
+    {
+        "id": "25b6bd50-85ac-4669-9594-904a7668e93c",
+        "x": 5175,
+        "y": 5347,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Nandishwar Mahadev"
+    },
+    {
+        "id": "42155f73-a6c1-4ab3-ab47-fe74da921ac1",
+        "x": 6431,
+        "y": 8533,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Narad Kund & Narad Taposthali Van, Govardhan"
+    },
+    {
+        "id": "1bc82365-15e1-4c77-98f5-1b726f2b9a55",
+        "x": 4964,
+        "y": 6215,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Narayan Bhatt"
+    },
+    {
+        "id": "7551d99c-a9fb-44f2-b2fa-3aa67f4ea1a2",
+        "x": 6061,
+        "y": 9566,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Narayan Sarovar"
+    },
+    {
+        "id": "c3fb6e8a-e876-4c32-8666-716b8504f251",
+        "x": 7129,
+        "y": 6128,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Nari Semri devi"
+    },
+    {
+        "id": "098d6156-5460-4108-9832-6534eb6a320a",
+        "x": 4523,
+        "y": 6793,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Nauubhari chaubari"
+    },
+    {
+        "id": "f004a617-e269-4382-b272-9e6d1510fa55",
+        "x": 5669,
+        "y": 9258,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Naval Kund"
+    },
+    {
+        "id": "161fd77c-1115-4999-b4d2-7a951fd25786",
+        "x": 9085,
+        "y": 7430,
+        "maxZoom": 1.5,
+        "color": "green",
+        "label": "Nidhivan and "
+    },
+    {
+        "id": "4eb49e8b-df56-4543-96a3-6708717a9a8b",
+        "x": 5870,
+        "y": 8197,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Nimbarkacharya mandir"
+    },
+    {
+        "id": "4cac049c-ae54-4b14-8cd4-ae1198cdb4be",
+        "x": 9158,
+        "y": 7550,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Old Radha Govind Dev Temple, Vrindavan"
+    },
+    {
+        "id": "bbc8c027-caa9-4329-9786-1e7d9ac77069",
+        "x": 8453,
+        "y": 7560,
+        "maxZoom": 0.4,
+        "color": "green",
+        "label": "Old Shri Radhavallabh Temple"
+    },
+    {
+        "id": "7c77d374-27cd-483d-993c-c95f076a7dc1",
+        "x": 8885,
+        "y": 7000,
+        "maxZoom": 1.5,
+        "color": "green",
+        "label": "Other Side of Yamuna, Vrindavan"
+    },
+    {
+        "id": "d63832db-5c16-4379-879b-9eb2d4e335ad",
+        "x": 6015,
+        "y": 7450,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Palita Sakhi"
+    },
+    {
+        "id": "eae220b6-63d5-4ffa-94e2-6f391c9175d8",
+        "x": 5419,
+        "y": 4807,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Pandav gufa"
+    },
+    {
+        "id": "9bcb7ee6-65a0-443a-a5f0-b71b58b72351",
+        "x": 5409,
+        "y": 4756,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Pandhav Gannga"
+    },
+    {
+        "id": "aa4b2531-5caa-4b6b-a521-ef151733808f",
+        "x": 5416,
+        "y": 4758,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Pandhav Gufa"
+    },
+    {
+        "id": "7c0a26a3-d013-488a-8fe1-65adced8a16d",
+        "x": 5289,
+        "y": 4847,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Panihari kund"
+    },
+    {
+        "id": "91d15334-0ee7-45e0-875a-29cbed4850fb",
+        "x": 5914,
+        "y": 4439,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Pastmukhi Hanuman mandir"
+    },
+    {
+        "id": "4126153b-e882-408d-96d6-186cfad9d3dc",
+        "x": 4733,
+        "y": 5347,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Paavan Sarovar, Nandgaun"
+    },
+    {
+        "id": "3eb73327-7c98-4149-b3c4-62e0f2610b6d",
+        "x": 5864,
+        "y": 6396,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Prachin Radha kund"
+    },
+    {
+        "id": "c4e7a171-a78d-4de3-8632-35435e20d131",
+        "x": 6538,
+        "y": 4161,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Prahlad Narsingh bagman mandir"
+    },
+    {
+        "id": "f928a8d0-1dac-4a1a-bc23-2f036402c6fe",
+        "x": 5015,
+        "y": 6083,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Prem Sarovar Barsana"
+    },
+    {
+        "id": "67fcb713-6df3-4472-b90a-677e89faee45",
+        "x": 5333,
+        "y": 5698,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Purnamasi"
+    },
+    {
+        "id": "d45ae427-269d-41e1-ba13-0dd8aabf1f36",
+        "x": 5784,
+        "y": 6644,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Rabti kund"
+    },
+    {
+        "id": "4a830b74-96c7-4a5a-bc87-0ef6fe65d3b3",
+        "x": 5604,
+        "y": 4326,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Radh Madhav mandir"
+    },
+    {
+        "id": "f2df05a3-bc5b-4a0a-812c-f31331f46de6",
+        "x": 8459,
+        "y": 4575,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Radha Bihari mandir"
+    },
+    {
+        "id": "3c978b6d-70da-4e69-9007-02dc79d7ab1a",
+        "x": 8671,
+        "y": 4860,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Sri Radha Kund"
+    },
+    {
+        "id": "d158d243-fb0c-4f42-9ee0-8e0807972577",
+        "x": 5226,
+        "y": 5948,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Shri Radharaman"
+    },
+    {
+        "id": "9ec5370c-2f62-47a7-b7bd-19a9e3ca330d",
+        "x": 5229,
+        "y": 5908,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Radha Sanket Bihari"
+    },
+    {
+        "id": "e921552c-3d2b-4774-b287-00b4cf2893c6",
+        "x": 5826,
+        "y": 4471,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Shri Radhavallabh"
+    },
+    {
+        "id": "2a3ebe13-7d6f-43f0-a763-a8b94c43928a",
+        "x": 4913,
+        "y": 5819,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Radha Vinod Bihari"
+    },
+    {
+        "id": "341978fa-c6e4-40c2-9a4d-d50293f01636",
+        "x": 5869,
+        "y": 5651,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Radha Vinod Vihari temple"
+    },
+    {
+        "id": "016bbea1-8aad-4331-86b0-68eee44384f5",
+        "x": 5184,
+        "y": 5140,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Radhakant Mandir"
+    },
+    {
+        "id": "3551b8a1-ac3f-4a6a-b2bd-5a5420cd4369",
+        "x": 5725,
+        "y": 4268,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Radhakant mandir"
+    },
+    {
+        "id": "097bb89d-f554-418b-be32-872ebff83386",
+        "x": 5544,
+        "y": 5313,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Radharani ka charan chin"
+    },
+    {
+        "id": "6b8b307d-3bf3-4b6c-bcd2-7c65a99ca569",
+        "x": 8408,
+        "y": 4192,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Ram ghat"
+    },
+    {
+        "id": "2747366b-2977-4608-804b-ff0c697e81ee",
+        "x": 4581,
+        "y": 6957,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Rangdevi Shakhi"
+    },
+    {
+        "id": "fc9fafb3-5ddb-41b2-a17d-414ef9e04066",
+        "x": 5755,
+        "y": 6329,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Ras Mandal"
+    },
+    {
+        "id": "7e3d69cc-d8f4-4405-b302-ebf1688d35b6",
+        "x": 5332,
+        "y": 6831,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Ras Mandal"
+    },
+    {
+        "id": "84c00f0d-5bcc-4fe6-9b3d-06099872da9f",
+        "x": 4999,
+        "y": 4799,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Rash mandal"
+    },
+    {
+        "id": "e2a41fd0-e460-4bd6-a45e-7d0a2bbe1cfc",
+        "x": 5046,
+        "y": 5922,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Rash mandal"
+    },
+    {
+        "id": "36d8d95b-5ef2-4ea4-8fd3-8c8e9fe04dfe",
+        "x": 6352,
+        "y": 8467,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Ratan Kund"
+    },
+    {
+        "id": "a021e8b0-6e6a-4ef2-b6dc-7af0ada43b73",
+        "x": 5759,
+        "y": 6922,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Rati kali kund"
+    },
+    {
+        "id": "53c9b343-acf9-417f-ba06-da3acd1c7c3d",
+        "x": 4919,
+        "y": 4873,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Ratnakar Sarovar"
+    },
+    {
+        "id": "f913d485-6294-4950-a839-ca01e9951548",
+        "x": 4699,
+        "y": 6260,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Sakhi kund"
+    },
+    {
+        "id": "3fe22061-b4bb-4dd8-a6c6-174e19fb9cdc",
+        "x": 6104,
+        "y": 8449,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Sakhi kund"
+    },
+    {
+        "id": "6aad4e0a-18a9-4b51-a707-85e2c2db958c",
+        "x": 4668,
+        "y": 5396,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Sanatan Goswami"
+    },
+    {
+        "id": "22ebbf7f-040c-4871-a8ee-21660a0c6892",
+        "x": 6010,
+        "y": 8505,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Sanatan Goswami"
+    },
+    {
+        "id": "ca25cd2b-2934-4ab0-9665-8c4029cb000a",
+        "x": 5298,
+        "y": 4912,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Sanidav mandir"
+    },
+    {
+        "id": "08a01939-e799-4eea-a22f-9c17837b3dae",
+        "x": 5967,
+        "y": 9083,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Sankarshan Kund (Ksheer Sagar)"
+    },
+    {
+        "id": "07b92f94-dba4-46c0-bd65-bf44f21c8a1d",
+        "x": 5226,
+        "y": 5857,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Sanketeshwari Devi"
+    },
+    {
+        "id": "f928f933-1047-4e0d-a762-2c46968dcccb",
+        "x": 9032,
+        "y": 7500,
+        "maxZoom": 1.5,
+        "color": "green",
+        "label": "Sewa Kunj View 2, Vrindavan"
+    },
+    {
+        "id": "1b456317-b2c4-45c5-b7a3-58e901dced03",
+        "x": 6226,
+        "y": 10001,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Shankar Kund"
+    },
+    {
+        "id": "a8159c3d-80ba-4622-94d7-016d1bf1da2f",
+        "x": 5012,
+        "y": 6410,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Shreeji mandir"
+    },
+    {
+        "id": "c93bad0e-5c0e-4fd9-bd53-95baeb12b3fc",
+        "x": 8474,
+        "y": 7500,
+        "maxZoom": 1.5,
+        "color": "green",
+        "label": "Shri Banke Bihari Vrindavan"
+    },
+    {
+        "id": "35b70098-1035-4852-9736-2b5a1af7e074",
+        "x": 7560,
+        "y": 6817,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Shri Brahma Ji mandir"
+    },
+    {
+        "id": "081e0605-813f-4b00-a912-67ac231d7107",
+        "x": 9664,
+        "y": 7512,
+        "maxZoom": 1.5,
+        "color": "green",
+        "label": "Shri Brahma Kund, Vrindavan"
+    },
+    {
+        "id": "f06636b3-c16a-4771-b119-ed1983bce041",
+        "x": 5010,
+        "y": 3706,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Shri Brajbhushan mandir"
+    },
+    {
+        "id": "d00f8ea9-36aa-47c1-85aa-870d7333012c",
+        "x": 9369,
+        "y": 7663,
+        "maxZoom": 1.5,
+        "color": "green",
+        "label": "nside View of Chaitanya Mahaprabhu Baithak, Radha Kund"
+    },
+    {
+        "id": "d99516f8-635c-440a-93d0-c498a402fd0f",
+        "x": 9569,
+        "y": 7453,
+        "maxZoom": 1.5,
+        "color": "green",
+        "label": "Shri Gopeshwar Mahadev, Vrindavan"
+    },
+    {
+        "id": "62de6f85-9542-478c-96d2-6d48c5520447",
+        "x": 9611,
+        "y": 7370,
+        "maxZoom": 1.5,
+        "color": "green",
+        "label": "Shri Radha Gopinath Temple, Vrindavan"
+    },
+    {
+        "id": "032395d4-b384-4703-a59f-26edd13d192d",
+        "x": 9085,
+        "y": 7760,
+        "maxZoom": 1.5,
+        "color": "green",
+        "label": "Shri Yamuna Devi, Vrindavan"
+    },
+    {
+        "id": "7d56bb5d-7781-4079-b513-779d18ea6025",
+        "x": 9158,
+        "y": 7100,
+        "maxZoom": 1.5,
+        "color": "green",
+        "label": "Shri Yamuna Mandir, Keshi Ghat, Vrindavan"
+    },
+    {
+        "id": "064a7eb2-2fcc-4d22-9e1a-1b45349e9625",
+        "x": 9158,
+        "y": 7100,
+        "maxZoom": 1.5,
+        "color": "green",
+        "label": "Shri Yamuna Mandir, Keshi Ghat, Vrindavan"
+    },
+    {
+        "id": "1e520fb3-5df8-4586-8c75-eddb5a11592c",
+        "x": 9728,
+        "y": 7200,
+        "maxZoom": 1.5,
+        "color": "green",
+        "label": "Shriji Ka Mandir, Vrindavan"
+    },
+    {
+        "id": "7902575f-695b-445b-8da5-a3840726af51",
+        "x": 5339,
+        "y": 3571,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Shrinath ji"
+    },
+    {
+        "id": "899157b0-55fc-4b50-936f-72351e315328",
+        "x": 5086,
+        "y": 4093,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Shrinath ji"
+    },
+    {
+        "id": "6396064d-59e5-4bef-8aad-9aad2c291ae9",
+        "x": 4651,
+        "y": 4128,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Shuk kund"
+    },
+    {
+        "id": "090008a9-b914-4eb0-9636-0a784475a268",
+        "x": 4568,
+        "y": 6746,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Shyam Kutir Vrindavan"
+    },
+    {
+        "id": "acecf206-dcd6-4f7a-8963-b5db05513875",
+        "x": 4372,
+        "y": 4989,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Sicha van"
+    },
+    {
+        "id": "9fc16731-96dd-412f-85cd-78551525bd3d",
+        "x": 8670,
+        "y": 4813,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Sita Ram Mandir"
+    },
+    {
+        "id": "cf1fc016-e7e6-4401-a484-712a18ea860b",
+        "x": 5790,
+        "y": 4202,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Sita Ram Mandir"
+    },
+    {
+        "id": "9e32a61e-cfb5-4e3f-ba3f-873d266ed774",
+        "x": 8369,
+        "y": 7380,
+        "maxZoom": 1.5,
+        "color": "green",
+        "label": "Madan Ter Vrindavan"
+    },
+    {
+        "id": "ad28486b-c0c0-40f8-a3ed-b314616c13ec",
+        "x": 5814,
+        "y": 8918,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Sri Nath ji"
+    },
+    {
+        "id": "02288ca3-69db-4c22-ac59-ff1844244f0b",
+        "x": 9474,
+        "y": 7250,
+        "maxZoom": 1.5,
+        "color": "green",
+        "label": "Sri Radha Raman's Appearance place, Vrindavan"
+    },
+    {
+        "id": "1d987076-623f-4397-8531-7c79bb5625ad",
+        "x": 6589,
+        "y": 8323,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Sri Shyam Kund"
+    },
+    {
+        "id": "5877f79e-320e-45d5-8254-fb1d6347c5b5",
+        "x": 5874,
+        "y": 8251,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Sudarshan Kund"
+    },
+    {
+        "id": "07634ba7-a8bc-44ab-8a81-c33611162981",
+        "x": 5892,
+        "y": 8319,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Sugar Kund"
+    },
+    {
+        "id": "a28209d0-3e69-4964-ace1-f5c4fbc173cd",
+        "x": 6484,
+        "y": 10020,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Suraj Kund"
+    },
+    {
+        "id": "11b4e8db-6425-43aa-aafa-442d916b9ace",
+        "x": 6769,
+        "y": 5198,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Sury kund"
+    },
+    {
+        "id": "81afc725-05a9-426b-a218-5a7558178ee5",
+        "x": 7108,
+        "y": 7970,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Sury kund"
+    },
+    {
+        "id": "c5bd9efd-3b46-45ac-97f7-c5a4d178c895",
+        "x": 6458,
+        "y": 7354,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Surya Narayan Temple"
+    },
+    {
+        "id": "8dcb8289-fdbd-4ead-8c98-23529bb91321",
+        "x": 5109,
+        "y": 5199,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Tera Kadamb Nandgaun"
+    },
+    {
+        "id": "9f3b18ae-5728-4ce1-8726-4c0550337a55",
+        "x": 5770,
+        "y": 6605,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Tugavidya Sakhi"
+    },
+    {
+        "id": "859cbb9e-ef3c-4d6c-8dd4-e715c2922a49",
+        "x": 6271,
+        "y": 8362,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Uddhav Kund, Govardhan"
+    },
+    {
+        "id": "d8f5d908-d1e4-499a-9033-3bb1738f86d4",
+        "x": 5340,
+        "y": 5633,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Shri Uddhav Kyar"
+    },
+    {
+        "id": "8ef6aa10-04fc-4f3d-9069-b44a41ee9f6f",
+        "x": 7091,
+        "y": 8324,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Vajranabha Kund"
+    },
+    {
+        "id": "2b6b1a5f-b99d-4294-9e1b-8124e509d70e",
+        "x": 5744,
+        "y": 8851,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Vallabhacharya ji"
+    },
+    {
+        "id": "7bfaf454-6a1f-41c4-80f5-6978d4773d03",
+        "x": 8336,
+        "y": 6309,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Vatsa Bihari mandir"
+    },
+    {
+        "id": "86499cae-5a70-496b-a992-b09122d6f1b4",
+        "x": 8576,
+        "y": 4558,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Vimal Kund, Kamyavan"
+    },
+    {
+        "id": "9ed8778a-0b86-4479-840a-1f83fc654d50",
+        "x": 4712,
+        "y": 5487,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Vrinda kund"
+    },
+    {
+        "id": "3185d1ce-fe1a-4e76-a468-8bdb90fb7dbd",
+        "x": 4655,
+        "y": 4071,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Vyas kund"
+    },
+    {
+        "id": "121726fd-a8dd-4d54-8d3b-f77d5954422d",
+        "x": 9253,
+        "y": 7379,
+        "maxZoom": 1.5,
+        "color": "green",
+        "label": "Yamuna From Sri Gopinath Bhawan, Imlitala,\u00c2\u00a0Vrindavan"
+    },
+    {
+        "id": "467fd350-8c40-4568-bcb1-518b595585cc",
+        "x": 4144,
+        "y": 5303,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Yashodha kund"
+    },
+    {
+        "id": "3fc70e1e-40e4-411f-8e91-1c7c187a3aa6",
+        "x": 4563,
+        "y": 4949,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Darshan of Yugal Kishor at Kishor Van, Vrindavan"
+    },
+    {
+        "id": "c1b9fa60-e539-46a4-8298-09ec06111fcb",
+        "x": 6410,
+        "y": 8590,
+        "maxZoom": 1.5,
+        "color": "red",
+        "label": "Yugal Kund"
+    }
+]

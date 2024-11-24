@@ -1,127 +1,173 @@
 import OpenSeadragon from "openseadragon";
 import React, { useEffect, useRef, useState } from "react";
-
-import markers from "./data.json";
-
+import Panorama from "../Pages/Panaroma";
+import markers from "./coordData.json";
 
 const OpenSeadragonViewer = () => {
     const viewerRef = useRef(null);
-    
+    const [selectedTemple, setSelectedTemple] = useState(null);
+    const [isDialogOpen, setIsDialogOpen] = useState(false);
+
     useEffect(() => {
-        // Initialize the OpenSeadragon viewer
         const viewer = OpenSeadragon({
-            id: 'openseadragon',
-            prefixUrl: 'https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.4.0/images/',
+            id: "openseadragon",
+            prefixUrl: "https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.4.0/images/",
             tileSources: {
                 Image: {
-                    xmlns: 'http://schemas.microsoft.com/deepzoom/2008',
-                    Url: '/img_files/', // The folder containing the tiles
-                    Format: 'jpeg', // The format of the image tiles
-                    Overlap: '1', // Tile overlap (this should match the settings used to create the .dzi file)
-                    TileSize: '254', // Tile size (match this with the value used to create the .dzi)
+                    xmlns: "http://schemas.microsoft.com/deepzoom/2008",
+                    Url: "/img_files/", // The folder containing the tiles
+                    Format: "jpeg",
+                    Overlap: "1",
+                    TileSize: "254",
                     Size: {
-                        Width: 11927, // The width of the original image
-                        Height: 12215 // The height of the original image
-                    }
-                }
+                        Width: 11927,
+                        Height: 12215,
+                    },
+                },
             },
-            // tileSources: '/img.dzi',
-            showNavigator: true,
-            minZoomLevel: 0.4,
-            maxZoomLevel: 8
+            minZoomLevel: 1,
+            maxZoomLevel: 8,
+            defaultZoomLevel: 1.2,
+            constrainDuringPan: true,
+            visibilityRatio: 1.0,
         });
 
-        // Store the viewer instance in the ref
         viewerRef.current = viewer;
 
-        viewer.addHandler('zoom', (event) => {
+        viewer.addHandler("zoom", () => {
             const currentZoom = viewer.viewport.getZoom();
-            // console.log(currentZoom);
-        
-            markers.forEach(markerData => {
+            markers.forEach((markerData) => {
                 const markerElement = document.getElementById(markerData.id);
                 if (currentZoom >= markerData.maxZoom) {
-                    markerElement.style.display = 'block';
+                    markerElement.style.display = "block";
                 } else {
-                    markerElement.style.display = 'none';
+                    markerElement.style.display = "none";
                 }
             });
         });
-        // Function to add a marker
+
         const addMarker = (markerData) => {
-            const marker = document.createElement('div');
+            const marker = document.createElement("div");
             marker.id = markerData.id;
-            marker.className = 'marker';
-            marker.style.pointerEvents = 'auto';
-            marker.style.backgroundColor = markerData.color ;
-        
-            const tag = document.createElement('span');
-            tag.className = 'tag';
+            marker.className = "marker";
+            marker.style.pointerEvents = "auto";
+            marker.style.backgroundColor = markerData.color;
+
+            const tag = document.createElement("span");
+            tag.className = "tag";
             tag.textContent = markerData.label;
-            marker.addEventListener('click', (event) => {
+
+            marker.addEventListener("click", (event) => {
                 event.stopPropagation();
-                window.open(`/panaroma/${markerData.label}`, '_blank');
+                setSelectedTemple(markerData.label);
+                setIsDialogOpen(true); 
             });
 
-            marker.addEventListener('mouseover', () => {
-                tag.style.display = 'block';
+            marker.addEventListener("mouseover", () => {
+                tag.style.display = "block";
             });
 
-            marker.addEventListener('mouseout', () => {
-                tag.style.display = 'none';
+            marker.addEventListener("mouseout", () => {
+                tag.style.display = "none";
             });
+
             marker.appendChild(tag);
-            
-            
-            // Normalize coordinates to OpenSeadragon's coordinate system
+
             const normalizedX = markerData.x / 11927;
             const normalizedY = markerData.y / 12215;
-        
+
             viewer.addOverlay({
                 element: marker,
-                location: new OpenSeadragon.Point(normalizedX, normalizedY)
+                location: new OpenSeadragon.Point(normalizedX, normalizedY),
             });
-        
-            // Initially hide the marker
-            marker.style.display = 'none';
-            tag.style.display = 'none';
+
+            marker.style.display = "none";
+            tag.style.display = "none";
         };
-        
-        // Add all markers
+
         markers.forEach(addMarker);
 
-        // Clean up when the component is unmounted
         return () => {
             if (viewerRef.current) {
                 viewerRef.current.destroy();
             }
         };
-
     }, []);
 
-    const handleMarker = (event) => {
-        const markerId = event.target.value;
-        const markerData = markers.find(marker => marker.id === markerId);
+    const handleMarker = (id) => {
+        const prevGlowingMarker = document.querySelector(".glow");
+        if (prevGlowingMarker) {
+            prevGlowingMarker.classList.remove("glow");
+        }
+
+        const markerData = markers.find((marker) => marker.id === id);
         if (markerData) {
-            viewerRef.current.viewport.panTo(new OpenSeadragon.Point(markerData.x / 11927, markerData.y / 12215));
+            const markerElement = document.getElementById(markerData.id);
+
+            if (markerElement) {
+                markerElement.classList.add("glow");
+                setTimeout(() => {
+                    markerElement.classList.remove("glow");
+                }, 5000);
+            }
+
+            viewerRef.current.viewport.panTo(
+                new OpenSeadragon.Point(markerData.x / 11927, markerData.y / 12215)
+            );
             viewerRef.current.viewport.zoomTo(markerData.maxZoom + 5, null, true);
         }
-    }
+    };
+
     return (
-        <div style={{display: "flex", justifyContent: "center", alignItems: "center"}}>
-            <div className="take">
-                <select onChange={handleMarker} style={{height: "30px"}}>
-                    <option value="">Select Your Location</option>
-                    {
-                        markers.map((marker)=>{
-                            return <option key={marker.id} value={marker.id}>{marker.label}</option>
-                        })
-                    }
-                </select>
+        <>
+            <div style={{ display: "flex", height: "100vh" }}>
+                {/* Sidebar */}
+                <div
+                    style={{
+                        width: "250px",
+                        backgroundColor: "#f4f4f4",
+                        padding: "15px",
+                        boxShadow: "2px 0 5px rgba(0,0,0,0.1)",
+                        overflowY: "auto",
+                    }}
+                >
+                    <h3 style={{ textAlign: "center", margin: "10px 0" }}>Locations</h3>
+                    <ul style={{ listStyleType: "none", padding: 0 }}>
+                        {markers.map((marker) => (
+                            <li
+                                key={marker.id}
+                                style={{
+                                    padding: "10px",
+                                    margin: "5px 0",
+                                    cursor: "pointer",
+                                    backgroundColor: "#eaeaea",
+                                    borderRadius: "5px",
+                                    textAlign: "center",
+                                    transition: "background 0.3s",
+                                }}
+                                onClick={() => handleMarker(marker.id)}
+                                onMouseOver={(e) => (e.target.style.backgroundColor = "#d3d3d3")}
+                                onMouseOut={(e) => (e.target.style.backgroundColor = "#eaeaea")}
+                            >
+                                {marker.label}
+                            </li>
+                        ))}
+                    </ul>
+                </div>
+
+                {/* OpenSeadragon Viewer */}
+                <div id="openseadragon" style={{ flex: 1, height: "100%" }} />
             </div>
-            <div id="openseadragon" style={{ width: '90%', height: '99vh' }} />
-        </div>
-);
+
+            {isDialogOpen && (
+                <Panorama
+                    open={isDialogOpen}
+                    onClose={() => setIsDialogOpen(false)}
+                    temple={selectedTemple}
+                />
+            )}
+        </>
+    );
 };
 
 export default OpenSeadragonViewer;

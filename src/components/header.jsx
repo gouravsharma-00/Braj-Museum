@@ -1,19 +1,13 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import NavBar from "./navBar";
 import "../styles/MainSection.css";
 
 const MainSection = () => {
   return (
     <div className="main-section">
       {/* Navbar */}
-      <nav className="navbar">
-        <h1 className="navbar-brand">Braj Museum</h1>
-        <ul className="navbar-links">
-          <li><a href="#about">About</a></li>
-          <li><Link to="/braj">Braj Darshan</Link></li>
-          <li><a href="#home">Home</a></li>
-        </ul>
-      </nav>
+      <NavBar />
 
       {/* Hero Section */}
       <div className="hero">
