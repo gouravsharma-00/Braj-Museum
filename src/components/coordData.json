@@ -13,7 +13,7 @@
         "y": 9314,
         "maxZoom": 1.5,
         "color": "red",
-        "label": "Apsara Kund"
+        "label": "Naval Kund & Apsara Kund, Govardhan"
     },
     {
         "id": "3117db91-12d2-4942-a39f-46ef0d81ca65",
@@ -220,7 +220,7 @@
         "x": 9104,
         "y": 5195,
         "maxZoom": 1.5,
-        "color": "red",
+        "color": "green",
         "label": "Cheer Ghat, Vrindavan"
     },
     {
@@ -252,7 +252,7 @@
         "x": 4783,
         "y": 6214,
         "maxZoom": 1.5,
-        "color": "red",
+        "color": "green",
         "label": "Deha Kunda (Uncha Gauv)"
     },
     {
@@ -644,7 +644,7 @@
         "x": 5309,
         "y": 5086,
         "maxZoom": 1.5,
-        "color": "red",
+        "color": "green",
         "label": "Darshan of Yugal Kishor at Kishor Van, Vrindavan"
     },
     {
@@ -716,7 +716,7 @@
         "x": 6361,
         "y": 8378,
         "maxZoom": 1.5,
-        "color": "red",
+        "color": "green",
         "label": "Kusum Sarovar Govardhan"
     },
     {
@@ -740,7 +740,7 @@
         "x": 5305,
         "y": 5571,
         "maxZoom": 1.5,
-        "color": "red",
+        "color": "green",
         "label": "Lalita Kund near Radha Kund, Goverdhan"
     },
     {
@@ -885,7 +885,7 @@
         "y": 6736,
         "maxZoom": 1.5,
         "color": "red",
-        "label": "Front View of Maan Sarovar"
+        "label": "Front View of Maan Sarovar, Temple, Vrindavan"
     },
     {
         "id": "04b3cda3-8d7f-4a3d-97db-6915496f4011",
@@ -900,7 +900,7 @@
         "x": 5973,
         "y": 8609,
         "maxZoom": 1.5,
-        "color": "red",
+        "color": "green",
         "label": "Mansi Ganga, Goverdhan"
     },
     {
@@ -980,7 +980,7 @@
         "x": 5241,
         "y": 5635,
         "maxZoom": 1.5,
-        "color": "red",
+        "color": "green",
         "label": "Nand Baithak and Nand Kund, Nandgaun"
     },
     {
@@ -1036,7 +1036,7 @@
         "x": 6431,
         "y": 8533,
         "maxZoom": 1.5,
-        "color": "red",
+        "color": "green",
         "label": "Narad Kund & Narad Taposthali Van, Govardhan"
     },
     {
@@ -1077,7 +1077,7 @@
         "y": 9258,
         "maxZoom": 1.5,
         "color": "red",
-        "label": "Naval Kund"
+        "label": "Naval Kund & Apsara Kund, Govardhan"
     },
     {
         "id": "161fd77c-1115-4999-b4d2-7a951fd25786",
@@ -1100,7 +1100,7 @@
         "x": 9158,
         "y": 7550,
         "maxZoom": 1.5,
-        "color": "red",
+        "color": "green",
         "label": "Old Radha Govind Dev Temple, Vrindavan"
     },
     {
@@ -1172,7 +1172,7 @@
         "x": 4733,
         "y": 5347,
         "maxZoom": 1.5,
-        "color": "red",
+        "color": "green",
         "label": "Paavan Sarovar, Nandgaun"
     },
     {
@@ -1196,7 +1196,7 @@
         "x": 5015,
         "y": 6083,
         "maxZoom": 1.5,
-        "color": "red",
+        "color": "green",
         "label": "Prem Sarovar Barsana"
     },
     {
@@ -1244,7 +1244,7 @@
         "x": 5226,
         "y": 5948,
         "maxZoom": 1.5,
-        "color": "red",
+        "color": "green",
         "label": "Shri Radharaman"
     },
     {
@@ -1260,7 +1260,7 @@
         "x": 5826,
         "y": 4471,
         "maxZoom": 1.5,
-        "color": "red",
+        "color": "green",
         "label": "Shri Radhavallabh"
     },
     {
@@ -1493,7 +1493,7 @@
         "y": 7663,
         "maxZoom": 1.5,
         "color": "green",
-        "label": "nside View of Chaitanya Mahaprabhu Baithak, Radha Kund"
+        "label": "inside View of Chaitanya Mahaprabhu Baithak, Radha Kund"
     },
     {
         "id": "d99516f8-635c-440a-93d0-c498a402fd0f",
@@ -1684,7 +1684,7 @@
         "x": 5109,
         "y": 5199,
         "maxZoom": 1.5,
-        "color": "red",
+        "color": "green",
         "label": "Tera Kadamb Nandgaun"
     },
     {
@@ -1700,7 +1700,7 @@
         "x": 6271,
         "y": 8362,
         "maxZoom": 1.5,
-        "color": "red",
+        "color": "green",
         "label": "Uddhav Kund, Govardhan"
     },
     {
@@ -1740,7 +1740,7 @@
         "x": 8576,
         "y": 4558,
         "maxZoom": 1.5,
-        "color": "red",
+        "color": "green",
         "label": "Vimal Kund, Kamyavan"
     },
     {
@@ -1764,7 +1764,7 @@
         "x": 9253,
         "y": 7379,
         "maxZoom": 1.5,
-        "color": "green",
+        "color": "red",
         "label": "Yamuna From Sri Gopinath Bhawan, Imlitala,\u00c2\u00a0Vrindavan"
     },
     {
