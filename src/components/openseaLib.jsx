@@ -114,7 +114,7 @@ const OpenSeadragonViewer = () => {
             viewerRef.current.viewport.panTo(
                 new OpenSeadragon.Point(markerData.x / 11927, markerData.y / 12215)
             );
-            viewerRef.current.viewport.zoomTo(markerData.maxZoom + 5, null, true);
+            viewerRef.current.viewport.zoomTo(markerData.maxZoom + 8, null, true);
         }
     };
 
