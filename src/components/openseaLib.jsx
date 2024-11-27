@@ -7,6 +7,20 @@ const OpenSeadragonViewer = () => {
     const viewerRef = useRef(null);
     const [selectedTemple, setSelectedTemple] = useState(null);
     const [isDialogOpen, setIsDialogOpen] = useState(false);
+    const [isSidebarVisible, setIsSidebarVisible] = useState(true);
+
+    useEffect(() => {
+        const handleResize = () => {
+            if (window.innerWidth < 400) {
+                setIsSidebarVisible(false);
+            }
+        };
+
+        window.addEventListener("resize", handleResize);
+        handleResize();
+
+        return () => window.removeEventListener("resize", handleResize);
+    }, []);
 
     useEffect(() => {
         const viewer = OpenSeadragon({
@@ -15,7 +29,7 @@ const OpenSeadragonViewer = () => {
             tileSources: {
                 Image: {
                     xmlns: "http://schemas.microsoft.com/deepzoom/2008",
-                    Url: "/img_files/", // The folder containing the tiles
+                    Url: "/img_files/",
                     Format: "jpeg",
                     Overlap: "1",
                     TileSize: "254",
@@ -60,7 +74,7 @@ const OpenSeadragonViewer = () => {
             marker.addEventListener("click", (event) => {
                 event.stopPropagation();
                 setSelectedTemple(markerData.label);
-                setIsDialogOpen(true); 
+                setIsDialogOpen(true);
             });
 
             marker.addEventListener("mouseover", () => {
@@ -120,43 +134,75 @@ const OpenSeadragonViewer = () => {
 
     return (
         <>
-            <div style={{ display: "flex", height: "100vh" }}>
+            <div style={{ display: "flex", height: "100vh", position: "relative" }}>
                 {/* Sidebar */}
-                <div
-                    style={{
-                        width: "250px",
-                        backgroundColor: "#f4f4f4",
-                        padding: "15px",
-                        boxShadow: "2px 0 5px rgba(0,0,0,0.1)",
-                        overflowY: "auto",
-                    }}
-                >
-                    <h3 style={{ textAlign: "center", margin: "10px 0" }}>Locations</h3>
-                    <ul style={{ listStyleType: "none", padding: 0 }}>
-                        {markers.map((marker) => (
-                            <li
-                                key={marker.id}
-                                style={{
-                                    padding: "10px",
-                                    margin: "5px 0",
-                                    cursor: "pointer",
-                                    backgroundColor: "#eaeaea",
-                                    borderRadius: "5px",
-                                    textAlign: "center",
-                                    transition: "background 0.3s",
-                                }}
-                                onClick={() => handleMarker(marker.id)}
-                                onMouseOver={(e) => (e.target.style.backgroundColor = "#d3d3d3")}
-                                onMouseOut={(e) => (e.target.style.backgroundColor = "#eaeaea")}
-                            >
-                                {marker.label}
-                            </li>
-                        ))}
-                    </ul>
-                </div>
+                {isSidebarVisible && (
+                    <div
+                        style={{
+                            width: "250px",
+                            backgroundColor: "#f4f4f4",
+                            padding: "15px",
+                            boxShadow: "2px 0 5px rgba(0,0,0,0.1)",
+                            overflowY: "auto",
+                            zIndex: 1,
+                            position: "relative",
+                        }}
+                    >
+                        <h3 style={{ textAlign: "center", margin: "10px 0" }}>Locations</h3>
+                        <ul style={{ listStyleType: "none", padding: 0 }}>
+                            {markers.map((marker) => (
+                                <li
+                                    key={marker.id}
+                                    style={{
+                                        padding: "10px",
+                                        margin: "5px 0",
+                                        cursor: "pointer",
+                                        backgroundColor: "#eaeaea",
+                                        borderRadius: "5px",
+                                        textAlign: "center",
+                                        transition: "background 0.3s",
+                                    }}
+                                    onClick={() => handleMarker(marker.id)}
+                                    onMouseOver={(e) =>
+                                        (e.target.style.backgroundColor = "#d3d3d3")
+                                    }
+                                    onMouseOut={(e) =>
+                                        (e.target.style.backgroundColor = "#eaeaea")
+                                    }
+                                >
+                                    {marker.label}
+                                </li>
+                            ))}
+                        </ul>
+                    </div>
+                )}
 
                 {/* OpenSeadragon Viewer */}
                 <div id="openseadragon" style={{ flex: 1, height: "100%" }} />
+
+                {/* Toggle Button */}
+                <button
+                    style={{
+                        position: "absolute",
+                        top: "55px",
+                        left: isSidebarVisible ? "265px" : "15px",
+                        zIndex: 2,
+                        // backgroundColor: "#007bff",
+                        // color: "#fff",
+                        // border: "none",
+                        // padding: "0px 0px",
+                        // borderRadius: "50%",
+                        // cursor: "pointer",
+                        // transition: "left 0.3s",
+                        // fontSize: '1.5rem',
+                        width: "40px",
+                        height: "30px",
+
+                    }}
+                    onClick={() => setIsSidebarVisible(!isSidebarVisible)}
+                >
+                    {isSidebarVisible ? "Hide" : "Show"}
+                </button>
             </div>
 
             {isDialogOpen && (
