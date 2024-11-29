@@ -75,7 +75,7 @@
   }
   #about-us p {
     max-width: 600px;
-    margin: 0 auto 30px;
+    margin: 0 auto ;
     font-size: 18px;
     line-height: 1.5;
     color: #bbb;
@@ -83,16 +83,16 @@
   
   .team-members {
     display: flex;
-    justify-content: space-between; 
-    padding-left: 150px;
-    padding-right: 150px;
+    justify-content: space-evenly; 
+    padding-left: 50px;
+    padding-right: 50px;
     align-items: center;
     flex-wrap: wrap;
   }
   
   .team-member {
     text-align: center;
-    padding-left: px;
+    padding-left: 0px;
     /*flex-basis: calc(33.33% - 20px);*/ 
     margin-bottom: 30px;
 }
