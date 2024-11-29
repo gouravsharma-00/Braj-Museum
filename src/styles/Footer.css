@@ -50,4 +50,74 @@
     padding: 20px 10px;
     width: 250px;
 }
+
+
+
+
+
+
+
+
+#about-us {
+    background-color: #333;
+    color: #ddd;
+    padding: 50px 0;
+  }
+  
+  #about-us h1 {
+    color: #fff;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .img-container{
+    text-align: center;
+    display: block;
+  }
+  #about-us p {
+    max-width: 600px;
+    margin: 0 auto 30px;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #bbb;
+  }
+  
+  .team-members {
+    display: flex;
+    justify-content: space-between; 
+    padding-left: 150px;
+    padding-right: 150px;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .team-member {
+    text-align: center;
+    padding-left: px;
+    /*flex-basis: calc(33.33% - 20px);*/ 
+    margin-bottom: 30px;
+}
+
+.team-member img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+.team-member h3 {
+    color: #fff;
+    margin-bottom: 5px;
+}
+
+.team-member p {
+    text-align: justify;
+    color: #bbb;
+  }
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+  }
 /* Footer -END */
