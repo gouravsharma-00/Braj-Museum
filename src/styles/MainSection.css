@@ -54,7 +54,7 @@ body {
   .hero {
     height: 100vh;
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6)), 
-                url('/assets/HighLight/highlight1.png') no-repeat center center/fit;
+                url('/assets/HighLight/highlight1.png') no-repeat center center/cover;
     display: flex;
     justify-content: center;
     align-items: center;
