@@ -57,67 +57,80 @@
 
 
 
-
 #about-us {
-    background-color: #333;
-    color: #ddd;
-    padding: 50px 0;
-  }
-  
-  #about-us h1 {
-    color: #fff;
-    text-align: center;
-    margin-bottom: 30px;
-  }
-  .img-container{
-    text-align: center;
-    display: block;
-  }
-  #about-us p {
-    max-width: 600px;
-    margin: 0 auto ;
-    font-size: 18px;
-    line-height: 1.5;
-    color: #bbb;
-  }
-  
-  .team-members {
-    display: flex;
-    justify-content: space-evenly; 
-    padding-left: 50px;
-    padding-right: 50px;
-    align-items: center;
-    flex-wrap: wrap;
-  }
-  
-  .team-member {
-    text-align: center;
-    padding-left: 0px;
-    /*flex-basis: calc(33.33% - 20px);*/ 
-    margin-bottom: 30px;
+  background-color: #333;
+  color: #ddd;
+  padding: 30px 0;
+}
+
+#about-us h2 {
+  color: #fff;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.img-container {
+  text-align: center;
+  display: block;
+}
+
+#about-us p {
+  max-width: 600px;
+  margin: 0 auto 30px;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #bbb;
+}
+
+.team-members {
+  display: flex;
+  justify-content: space-between; /* Center the items */
+  gap: 10px;
+  align-items: center;
+  flex-wrap: wrap;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+.team-member {
+  text-align: center;
+  margin-bottom: 30px;
+  /* gap: 40px; */
+   flex-basis: calc(33.33% - -120px); 
 }
 
 .team-member img {
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
-    object-fit: cover;
-    margin-bottom: 10px;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  margin-bottom: 10px;
 }
 
 .team-member h3 {
-    color: #fff;
-    margin-bottom: 5px;
+  color: #fff;
+  margin-bottom: 5px;
 }
 
 .team-member p {
-    text-align: justify;
-    color: #bbb;
-  }
-  .container {
-    max-width: 1200px;
-    margin: 0 auto;
-    display: flex;
-    justify-content: center;
-  }
+  text-align: justify;
+  color: #bbb;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  font-size: 20px;
+  flex-direction: column;
+  /* justify-content: center; */
+  text-align: justify;
+  /* align-items: center; */
+  margin-bottom:80px;
+}
+
+.container h3{
+  padding:25px;
+  padding-left: 0px;
+}
 /* Footer -END */
