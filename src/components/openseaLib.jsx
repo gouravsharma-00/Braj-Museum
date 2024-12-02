@@ -40,7 +40,7 @@ const OpenSeadragonViewer = () => {
                 },
             },
             minZoomLevel: 1,
-            maxZoomLevel: 8,
+            maxZoomLevel: 19,
             defaultZoomLevel: 1.2,
             constrainDuringPan: true,
             visibilityRatio: 1.0,
