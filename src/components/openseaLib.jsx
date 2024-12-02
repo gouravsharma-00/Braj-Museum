@@ -29,7 +29,7 @@ const OpenSeadragonViewer = () => {
             tileSources: {
                 Image: {
                     xmlns: "http://schemas.microsoft.com/deepzoom/2008",
-                    Url: "/img_files/",
+                    Url: "/map_files/",
                     Format: "jpeg",
                     Overlap: "1",
                     TileSize: "254",
