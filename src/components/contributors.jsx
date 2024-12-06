@@ -3,6 +3,7 @@ import '@fortawesome/fontawesome-free/css/all.min.css';
 import '../styles/Footer.css';
 import Gan from '/src/components/vnkeg.jpg';
 import Gou from '/src/components/photo.jfif.jpg';
+import adi from '/src/components/aditiya.jpg';
 // import gou from '../public/vnkeg.jpg';
 import '../styles/Footer.css';
 const contributors = () => {
@@ -45,6 +46,16 @@ Join us in our journey to keep the spirit of Braj alive and flourishing for gene
         Hi, I’m Gourav Sharma, a passionate web developer specializing in the MERN stack.
         I love crafting seamless web applications and building innovative solutions for modern challenges. <br /><br /><br />
         Check out my work on GitHub:<a href="https://github.com/gouravsharma-00">gouravsharma-00</a>.
+      </p>
+    </div>
+    <div className="team-member">
+      <img src={adi} alt="Team member 2" />
+      <h3>Aditya Verma</h3>
+      <h3>About the Developer</h3>
+      <p>
+      Radhe Radhe Everyone, I am Aditya Verma  the Project Supervisor , Web maker, Trainee Developer.
+      I am working in CSS , Jason and providing accuracy<br></br>
+      🌐 Email: <a href='aditya.verma3_cs23@gla.ac.in' >aditya.verma3_cs23@gla.ac.in</a>
       </p>
     </div>
   </div>

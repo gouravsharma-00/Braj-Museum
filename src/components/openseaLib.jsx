@@ -8,6 +8,15 @@ const OpenSeadragonViewer = () => {
     const [selectedTemple, setSelectedTemple] = useState(null);
     const [isDialogOpen, setIsDialogOpen] = useState(false);
     const [isSidebarVisible, setIsSidebarVisible] = useState(true);
+    const [searchQuery, setSearchQuery] = useState('');
+
+    const handleSearchChange = (event) => {
+        setSearchQuery(event.target.value);
+    };
+
+    const filteredMarkers = markers.filter(marker =>
+        marker.label.toLowerCase().includes(searchQuery.toLowerCase())
+    );
 
     useEffect(() => {
         const handleResize = () => {
@@ -149,8 +158,21 @@ const OpenSeadragonViewer = () => {
                         }}
                     >
                         <h3 style={{ textAlign: "center", margin: "10px 0" }}>Locations</h3>
+                        <input
+                            type="text"
+                            placeholder="Search..."
+                            value={searchQuery}
+                            onChange={handleSearchChange}
+                            style={{
+                                width: "100%",
+                                padding: "10px",
+                                marginBottom: "10px",
+                                borderRadius: "4px",
+                                border: "1px solid #ddd",
+                            }}
+                        />
                         <ul style={{ listStyleType: "none", padding: 0 }}>
-                            {markers.map((marker) => (
+                            {filteredMarkers.map((marker) => (
                                 <li
                                     key={marker.id}
                                     style={{
