@@ -35,7 +35,7 @@ Join us in our journey to keep the spirit of Braj alive and flourishing for gene
         🏆 A top-tier coder and debugger, turning caffeine into code and teaching OOP to plants 🌿. Certified in WebDev MERN Stack by Meta, APIs, and AI, ready to make the web smarter.
         <br/>🛠️Reach out at <a href="mailto:gantavyaoo@gmail.com?&subject=Reach | from:merobraj.org&body= Write your email here.">gantavyaoo@gmail.com</a>.
         <br /> 👨‍💻 LinkedIn: <a href="https://in.linkedin.com/in/gantavya-bansal">gantavya-bansal</a>  👨 <br />
-        🔧  GitHub: <a href="https://github.com/stubanx">StuBanX</a> 🌍
+        🔧  GitHub: <a href="https://github.com/bgantavya">bgantavya</a> 🌍
       </p>
     </div>
     <div className="team-member">
